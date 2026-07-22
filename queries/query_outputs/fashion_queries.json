@@ -1,0 +1,1262 @@
+[
+  {
+    "query_id": "q_0048",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "tank top",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0013",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "watch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0155",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "best belt styles to go with high-waisted, straight-leg jeans",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0092",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's straight leg corduroys",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0131",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's sterling silver necklace",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0147",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "necklace styles that complement a high-neck, sleeveless top",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0122",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's classic trench coat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0027",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "tie",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0163",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what to wear to an outdoor music festival when it might rain",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0004",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0109",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's satin pajama set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0003",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "sneakers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0077",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's high-waisted shorts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0085",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's wide leg pants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0103",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's puffer vest",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0015",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "belt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0064",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "swim trunks",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0110",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's fleece-lined hoodie",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0151",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what kind of top to wear with a pleated midi skirt for the office",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0083",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's faux fur coat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0088",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's stretch-fit chinos",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0059",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "mini skirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0053",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "leather jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0090",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's crewneck sweatshirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0171",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to build a versatile capsule wardrobe for a minimalist lifestyle",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0121",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's ribbed knit cardigan",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0169",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "appropriate and respectful outfit for attending a funeral",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0174",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to find jeans that fit a small waist but larger thighs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0173",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what to wear for a day of sightseeing and walking in Paris",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0097",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's tall yoga pants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0143",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "appropriate attire for a tech conference in San Francisco",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0149",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "professional yet fashionable outfit for a creative job interview",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0136",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to style wide-leg trousers to look professional and not frumpy",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0166",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to dress up joggers for a stylish, casual night out",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0062",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "white shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0039",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "loafers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0058",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "yoga pants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0100",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's relaxed fit cargo pants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0139",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "stylish and comfortable work-from-home clothes for women under $75",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0112",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's quick-dry swim trunks",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0011",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "hat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0029",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "pajamas",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0084",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's suede chukka boots",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0138",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what color shoes and bag to pair with an emerald green cocktail dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0034",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "jumpsuit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0074",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "unisex cotton hoodie",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0005",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "hoodie",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0073",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's plus size dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0111",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's bootcut denim jeans",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0144",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "high-quality, non-see-through leggings for yoga under $50",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0021",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "leggings",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0069",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's slim fit jeans",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0072",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's leather belt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0007",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "shorts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0086",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's flannel shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0046",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "beanie",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0087",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's cropped denim jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0057",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "sports bra",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0146",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what to wear to a winter wedding that is black-tie optional",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0135",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's belted shirt dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0024",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "cardigan",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0022",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "scarf",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0043",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "bracelet",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0152",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "chic and practical outfit for running errands on a rainy Saturday",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0047",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "polo shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0071",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "waterproof hiking boots",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0081",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's petite trousers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0127",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's knee-high boots",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0075",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "girls' sequin party dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0054",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "bomber jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0035",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "romper",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0126",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's vintage band shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0116",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's leather biker jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0028",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "socks",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0023",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "gloves",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0080",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's v-neck sweater",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0019",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "coat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0006",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0061",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "black dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0052",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "denim jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0178",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to pack a carry-on for a 10-day European trip with mix-and-match outfits",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0172",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what color tights to wear with a charcoal grey wool skirt in winter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0076",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's wool peacoat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0045",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "cap",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0153",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "flattering and supportive swimwear for a large bust under $100",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0170",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "designer-inspired handbags that look expensive for under $150",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0050",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "trousers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0095",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's floral maxi dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0008",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "boots",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0026",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "suit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0130",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's insulated winter gloves",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0120",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's wool blend trousers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0051",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "trench coat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0175",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "first day of work outfit for a corporate law firm environment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0156",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what to wear for a weekend trip to the mountains in autumn",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0038",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "clutch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0098",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's silk dress shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0012",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "sunglasses",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0079",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's silk camisole",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0099",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's sleeveless blouse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0040",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "flats",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0009",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "sandals",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0160",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "outfit for meeting your significant other's parents for a casual dinner",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0142",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "the best type of jacket to wear over a floor-length evening gown",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0177",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "the right kind of outerwear to pair with a sequin jumpsuit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0159",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "tie and pocket square combinations for a light grey business suit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0044",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "ring",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0115",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's pointed toe flats",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0148",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "finding a durable leather work tote bag for a laptop under $200",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0176",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "comfortable yet chic travel shoes for walking on cobblestones under $120",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0158",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to make a casual t-shirt and jeans look more put-together",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0128",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's pinstripe suit jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0117",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's high neck tank",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0161",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "the best men's wool winter coats available for under $300",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0180",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "men's dress shirts that don't require ironing for under $60",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0078",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "boys' graphic tee",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0165",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "finding stylish maternity work clothes for the office under $80 per item",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0070",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's linen blazer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0042",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "necklace",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0065",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "evening gown",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0002",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "t-shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0001",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "jeans",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0104",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's slim fit polo",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0096",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's waterproof rain jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0124",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's canvas slip-on sneakers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0134",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's corduroy bomber jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0137",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what to wear for a casual first date coffee meeting in the fall",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0032",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "robe",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0037",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "backpack",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0141",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "best clothing materials for hot and humid climates to stay cool",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0066",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "tuxedo",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0118",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's regular fit boxer briefs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0113",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's long sleeve bodysuit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0030",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "swimsuit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0101",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's chunky knit sweater",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0106",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's merino wool socks",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0133",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's cotton poplin shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0168",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what style of hat looks best with a long, bohemian-style maxi dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0105",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's wrap mini dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0093",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's leather ankle boots",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0091",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's pleated midi skirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0164",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "which socks should I wear with ankle boots and cropped pants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0017",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "pants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0132",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's straight fit khakis",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0179",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "what to wear to a bachelorette party in Las Vegas",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0094",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's cashmere scarf",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0125",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's velvet jumpsuit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0031",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "bikini",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0060",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "maxi dress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0089",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's platform sandals",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0033",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "vest",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0107",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's oversized graphic tee",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0150",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "comfortable dress shoes for men who are on their feet all day",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0018",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "skirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0129",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's crossbody leather bag",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0020",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "blouse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0162",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "solutions for preventing straps from showing with off-the-shoulder tops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0102",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's leather dress shoes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0140",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "outfit ideas for a week-long Mediterranean cruise in July",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0036",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "tote bag",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0016",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "sweater",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0157",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "elegant mother-of-the-bride dresses for a summer garden wedding under $250",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0167",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "smart casual outfit for a company holiday party at a fancy restaurant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0123",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's athletic running shorts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0049",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "crop top",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0145",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to choose outfits that are flattering for a pear-shaped body type",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0119",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "women's lace trim bralette",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0055",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "flip flops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0041",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "earrings",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0114",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's thermal henley shirt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0010",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "heels",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0067",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "bodysuit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0063",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "blue jeans",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0056",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "running shoes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0154",
+    "category": "fashion",
+    "complexity": "complex",
+    "text_query": "how to layer clothes for transitional spring weather without looking bulky",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0025",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "blazer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0068",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "crossbody bag",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0014",
+    "category": "fashion",
+    "complexity": "simple",
+    "text_query": "handbag",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0108",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's denim trucker jacket",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0082",
+    "category": "fashion",
+    "complexity": "medium",
+    "text_query": "men's athletic fit shorts",
+    "image_url": null
+  }
+]

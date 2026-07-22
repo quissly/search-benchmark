@@ -1,0 +1,1036 @@
+{
+  "definition": "pooled IDCG: pool = union of judged (id, gain) across all 5 engines, dedup by id keeping max gain; IDCG@k = DCG of pool gains desc truncated at k; nDCG@k = engine DCG@k / pooled IDCG@k; queries with pooled IDCG == 0 excluded",
+  "exclusions": {
+    "overall": {
+      "total": 1259,
+      "excluded": 47
+    },
+    "recall_exact_only_excluded": 200,
+    "per_sector": {
+      "auto": 0,
+      "cosmetics": 3,
+      "electronics": 2,
+      "fast_fashion": 6,
+      "furniture": 2,
+      "marketplace": 26,
+      "pharmacy": 8
+    },
+    "per_tier": {
+      "simple": 9,
+      "medium": 21,
+      "complex": 17
+    }
+  },
+  "cells": {
+    "overall": {
+      "quissly@10": {
+        "shipped": 82.9066419126203,
+        "pooled": 73.7845605171246,
+        "delta": -9.122081395495707,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "quissly@20": {
+        "shipped": 82.08460684223368,
+        "pooled": 77.27601345735474,
+        "delta": -4.808593384878945,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "doofinder@10": {
+        "shipped": 73.27528188951763,
+        "pooled": 54.23736774133607,
+        "delta": -19.037914148181557,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "doofinder@20": {
+        "shipped": 73.00363892118544,
+        "pooled": 54.50462738738815,
+        "delta": -18.499011533797294,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "luigisbox@10": {
+        "shipped": 67.34611481633476,
+        "pooled": 50.8136285313091,
+        "delta": -16.532486285025673,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "luigisbox@20": {
+        "shipped": 66.8583208430502,
+        "pooled": 50.406508662949825,
+        "delta": -16.45181218010038,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "clerk@10": {
+        "shipped": 67.34725182878938,
+        "pooled": 49.23656506768481,
+        "delta": -18.11068676110457,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "clerk@20": {
+        "shipped": 67.14183505152135,
+        "pooled": 49.212781993445844,
+        "delta": -17.929053058075517,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "algolia@10": {
+        "shipped": 54.804572100603664,
+        "pooled": 44.05747159535455,
+        "delta": -10.747100505249113,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      },
+      "algolia@20": {
+        "shipped": 54.44409080780829,
+        "pooled": 43.76579140887223,
+        "delta": -10.678299398936058,
+        "n_shipped": 1259,
+        "n_pooled": 1212
+      }
+    },
+    "sector:auto": {
+      "quissly@10": {
+        "shipped": 93.44740853700328,
+        "pooled": 80.06476171355851,
+        "delta": -13.382646823444777,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "quissly@20": {
+        "shipped": 91.60075878725429,
+        "pooled": 82.74165252289119,
+        "delta": -8.859106264363103,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "doofinder@10": {
+        "shipped": 81.87625897624936,
+        "pooled": 59.541957131188774,
+        "delta": -22.33430184506059,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "doofinder@20": {
+        "shipped": 81.49882859703177,
+        "pooled": 60.91449191306578,
+        "delta": -20.584336683965986,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "luigisbox@10": {
+        "shipped": 78.63706779030638,
+        "pooled": 57.30367840903824,
+        "delta": -21.33338938126814,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "luigisbox@20": {
+        "shipped": 78.34489185507339,
+        "pooled": 56.74541649640658,
+        "delta": -21.59947535866681,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "clerk@10": {
+        "shipped": 77.98250462215339,
+        "pooled": 58.106916528277544,
+        "delta": -19.87558809387585,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "clerk@20": {
+        "shipped": 77.5718676020616,
+        "pooled": 59.08151159796019,
+        "delta": -18.490356004101404,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "algolia@10": {
+        "shipped": 64.84736455403262,
+        "pooled": 51.05764287123497,
+        "delta": -13.789721682797662,
+        "n_shipped": 180,
+        "n_pooled": 180
+      },
+      "algolia@20": {
+        "shipped": 64.77542040396249,
+        "pooled": 51.355159835884166,
+        "delta": -13.420260568078312,
+        "n_shipped": 180,
+        "n_pooled": 180
+      }
+    },
+    "sector:cosmetics": {
+      "quissly@10": {
+        "shipped": 90.56946937413308,
+        "pooled": 79.07381735062164,
+        "delta": -11.495652023511438,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "quissly@20": {
+        "shipped": 89.38793983635274,
+        "pooled": 81.3753350723006,
+        "delta": -8.012604764052133,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "doofinder@10": {
+        "shipped": 86.57708235767784,
+        "pooled": 66.24211874498666,
+        "delta": -20.334963612691183,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "doofinder@20": {
+        "shipped": 85.2669467859546,
+        "pooled": 64.74216595371942,
+        "delta": -20.52478083223518,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "luigisbox@10": {
+        "shipped": 79.816583885296,
+        "pooled": 62.73653647397512,
+        "delta": -17.080047411320876,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "luigisbox@20": {
+        "shipped": 79.07537507672096,
+        "pooled": 61.75159764399791,
+        "delta": -17.32377743272304,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "clerk@10": {
+        "shipped": 81.45793947612302,
+        "pooled": 58.26179738629127,
+        "delta": -23.19614208983174,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "clerk@20": {
+        "shipped": 80.30529444389892,
+        "pooled": 57.53870701787989,
+        "delta": -22.766587426019026,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "algolia@10": {
+        "shipped": 62.445722847767286,
+        "pooled": 53.11807386807031,
+        "delta": -9.327648979696967,
+        "n_shipped": 180,
+        "n_pooled": 177
+      },
+      "algolia@20": {
+        "shipped": 62.348738340831474,
+        "pooled": 51.96347657143259,
+        "delta": -10.385261769398891,
+        "n_shipped": 180,
+        "n_pooled": 177
+      }
+    },
+    "sector:electronics": {
+      "quissly@10": {
+        "shipped": 87.55727093915307,
+        "pooled": 75.9950946045182,
+        "delta": -11.562176334634866,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "quissly@20": {
+        "shipped": 86.15058895772256,
+        "pooled": 79.49226095730918,
+        "delta": -6.658328000413382,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "doofinder@10": {
+        "shipped": 77.64799225858862,
+        "pooled": 51.3748668361585,
+        "delta": -26.27312542243011,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "doofinder@20": {
+        "shipped": 77.51244143380002,
+        "pooled": 52.37371890831135,
+        "delta": -25.138722525488667,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "luigisbox@10": {
+        "shipped": 70.96516778649918,
+        "pooled": 50.1094777172344,
+        "delta": -20.85569006926479,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "luigisbox@20": {
+        "shipped": 69.46082762220581,
+        "pooled": 50.22782732927199,
+        "delta": -19.233000292933824,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "clerk@10": {
+        "shipped": 72.41540114931048,
+        "pooled": 49.168179744858605,
+        "delta": -23.247221404451878,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "clerk@20": {
+        "shipped": 71.62455438989033,
+        "pooled": 49.23970350137851,
+        "delta": -22.38485088851183,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "algolia@10": {
+        "shipped": 63.80108964427902,
+        "pooled": 46.45187591570846,
+        "delta": -17.349213728570557,
+        "n_shipped": 180,
+        "n_pooled": 178
+      },
+      "algolia@20": {
+        "shipped": 62.45885396339765,
+        "pooled": 46.00202228704628,
+        "delta": -16.456831676351374,
+        "n_shipped": 180,
+        "n_pooled": 178
+      }
+    },
+    "sector:fast_fashion": {
+      "quissly@10": {
+        "shipped": 80.31177715570702,
+        "pooled": 69.35494981703349,
+        "delta": -10.956827338673536,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "quissly@20": {
+        "shipped": 80.1080815779129,
+        "pooled": 74.17454221753617,
+        "delta": -5.933539360376727,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "doofinder@10": {
+        "shipped": 69.57236533356492,
+        "pooled": 49.198346251943995,
+        "delta": -20.374019081620915,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "doofinder@20": {
+        "shipped": 69.7350940873952,
+        "pooled": 49.55838046621809,
+        "delta": -20.17671362117711,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "luigisbox@10": {
+        "shipped": 55.429500420076394,
+        "pooled": 44.3953869714814,
+        "delta": -11.034113448594995,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "luigisbox@20": {
+        "shipped": 55.524849169429416,
+        "pooled": 43.43644109393364,
+        "delta": -12.088408075495776,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "clerk@10": {
+        "shipped": 62.0337950582642,
+        "pooled": 43.663324030386875,
+        "delta": -18.370471027877322,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "clerk@20": {
+        "shipped": 63.04178279924002,
+        "pooled": 42.99918183364974,
+        "delta": -20.042600965590275,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "algolia@10": {
+        "shipped": 47.30652539233963,
+        "pooled": 39.86752716329608,
+        "delta": -7.438998229043542,
+        "n_shipped": 180,
+        "n_pooled": 174
+      },
+      "algolia@20": {
+        "shipped": 47.845949014742764,
+        "pooled": 39.01584317365491,
+        "delta": -8.830105841087853,
+        "n_shipped": 180,
+        "n_pooled": 174
+      }
+    },
+    "sector:furniture": {
+      "quissly@10": {
+        "shipped": 88.75223627049046,
+        "pooled": 76.86055399237846,
+        "delta": -11.891682278112004,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "quissly@20": {
+        "shipped": 87.04371197091885,
+        "pooled": 81.19930124294746,
+        "delta": -5.844410727971394,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "doofinder@10": {
+        "shipped": 82.1141637128906,
+        "pooled": 57.92823840034033,
+        "delta": -24.18592531255027,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "doofinder@20": {
+        "shipped": 80.66060765431064,
+        "pooled": 58.21517146569528,
+        "delta": -22.445436188615364,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "luigisbox@10": {
+        "shipped": 77.89633836848368,
+        "pooled": 55.470420217417114,
+        "delta": -22.425918151066572,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "luigisbox@20": {
+        "shipped": 77.4718211231617,
+        "pooled": 55.26279442964033,
+        "delta": -22.209026693521384,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "clerk@10": {
+        "shipped": 75.80033100918604,
+        "pooled": 52.73314105414868,
+        "delta": -23.06718995503736,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "clerk@20": {
+        "shipped": 74.99987593073473,
+        "pooled": 52.95227647129344,
+        "delta": -22.0475994594413,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "algolia@10": {
+        "shipped": 62.41619073499988,
+        "pooled": 47.0571777246701,
+        "delta": -15.35901301032978,
+        "n_shipped": 179,
+        "n_pooled": 177
+      },
+      "algolia@20": {
+        "shipped": 62.00220077151245,
+        "pooled": 47.4298263709901,
+        "delta": -14.572374400522353,
+        "n_shipped": 179,
+        "n_pooled": 177
+      }
+    },
+    "sector:marketplace": {
+      "quissly@10": {
+        "shipped": 66.05764098296424,
+        "pooled": 67.13293152799216,
+        "delta": 1.0752905450279182,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "quissly@20": {
+        "shipped": 65.61045871696261,
+        "pooled": 70.03868168225668,
+        "delta": 4.42822296529407,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "doofinder@10": {
+        "shipped": 59.582446542267206,
+        "pooled": 55.879599787953346,
+        "delta": -3.70284675431386,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "doofinder@20": {
+        "shipped": 60.28497107137992,
+        "pooled": 56.704270656631614,
+        "delta": -3.5807004147483057,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "luigisbox@10": {
+        "shipped": 45.506767322572216,
+        "pooled": 41.7006317765327,
+        "delta": -3.806135546039513,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "luigisbox@20": {
+        "shipped": 44.89187547249616,
+        "pooled": 41.88127495390923,
+        "delta": -3.0106005185869367,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "clerk@10": {
+        "shipped": 42.84894542798059,
+        "pooled": 37.90434599213149,
+        "delta": -4.944599435849101,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "clerk@20": {
+        "shipped": 43.093089419688305,
+        "pooled": 39.096239601935196,
+        "delta": -3.996849817753112,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "algolia@10": {
+        "shipped": 34.67743940390598,
+        "pooled": 32.15679198924472,
+        "delta": -2.5206474146612647,
+        "n_shipped": 180,
+        "n_pooled": 154
+      },
+      "algolia@20": {
+        "shipped": 34.654484590095706,
+        "pooled": 33.42190203085963,
+        "delta": -1.2325825592360784,
+        "n_shipped": 180,
+        "n_pooled": 154
+      }
+    },
+    "sector:pharmacy": {
+      "quissly@10": {
+        "shipped": 73.68316565310137,
+        "pooled": 66.75283109025938,
+        "delta": -6.930334562841988,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "quissly@20": {
+        "shipped": 74.71825863256014,
+        "pooled": 70.62424682020213,
+        "delta": -4.0940118123580005,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "doofinder@10": {
+        "shipped": 55.60576894440362,
+        "pooled": 39.12376332641384,
+        "delta": -16.48200561798979,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "doofinder@20": {
+        "shipped": 56.10912153360994,
+        "pooled": 38.68263533723,
+        "delta": -17.426486196379937,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "luigisbox@10": {
+        "shipped": 63.229990494176946,
+        "pooled": 42.34094576541736,
+        "delta": -20.889044728759586,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "luigisbox@20": {
+        "shipped": 63.29756947270903,
+        "pooled": 41.969510321227574,
+        "delta": -21.328059151481455,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "clerk@10": {
+        "shipped": 58.938807609510114,
+        "pooled": 42.9229309553823,
+        "delta": -16.015876654127815,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "clerk@20": {
+        "shipped": 59.40003655779792,
+        "pooled": 41.78470842931045,
+        "delta": -17.615328128487466,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "algolia@10": {
+        "shipped": 48.179958897092305,
+        "pooled": 36.73680650627355,
+        "delta": -11.443152390818751,
+        "n_shipped": 180,
+        "n_pooled": 172
+      },
+      "algolia@20": {
+        "shipped": 47.064978069913856,
+        "pooled": 35.36922211757329,
+        "delta": -11.69575595234057,
+        "n_shipped": 180,
+        "n_pooled": 172
+      }
+    },
+    "complexity:simple": {
+      "quissly@10": {
+        "shipped": 94.47904403053316,
+        "pooled": 91.01785951075408,
+        "delta": -3.4611845197790814,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "quissly@20": {
+        "shipped": 94.22932216734178,
+        "pooled": 91.64271617796432,
+        "delta": -2.586605989377455,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "doofinder@10": {
+        "shipped": 84.78723625978039,
+        "pooled": 72.38614114511293,
+        "delta": -12.40109511466746,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "doofinder@20": {
+        "shipped": 84.7377245116141,
+        "pooled": 72.24849948703434,
+        "delta": -12.489225024579776,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "luigisbox@10": {
+        "shipped": 84.3351243300457,
+        "pooled": 70.64095492759557,
+        "delta": -13.694169402450129,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "luigisbox@20": {
+        "shipped": 83.65910429194133,
+        "pooled": 70.57230776340884,
+        "delta": -13.086796528532496,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "clerk@10": {
+        "shipped": 81.61699141394877,
+        "pooled": 66.571129787595,
+        "delta": -15.045861626353773,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "clerk@20": {
+        "shipped": 81.34925252953694,
+        "pooled": 66.95002764863662,
+        "delta": -14.399224880900318,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "algolia@10": {
+        "shipped": 82.21990220090652,
+        "pooled": 67.53618922343733,
+        "delta": -14.683712977469177,
+        "n_shipped": 475,
+        "n_pooled": 466
+      },
+      "algolia@20": {
+        "shipped": 81.76187576492269,
+        "pooled": 68.41799511088948,
+        "delta": -13.343880654033214,
+        "n_shipped": 475,
+        "n_pooled": 466
+      }
+    },
+    "complexity:medium": {
+      "quissly@10": {
+        "shipped": 78.61353660990173,
+        "pooled": 65.9251065042407,
+        "delta": -12.68843010566102,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "quissly@20": {
+        "shipped": 77.1908031599457,
+        "pooled": 70.75315763197622,
+        "delta": -6.437645527969482,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "doofinder@10": {
+        "shipped": 75.34406186872454,
+        "pooled": 55.78234804114973,
+        "delta": -19.5617138275748,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "doofinder@20": {
+        "shipped": 75.04225064987689,
+        "pooled": 56.001603024767086,
+        "delta": -19.04064762510981,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "luigisbox@10": {
+        "shipped": 73.6688702970253,
+        "pooled": 55.89728356903135,
+        "delta": -17.771586727993938,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "luigisbox@20": {
+        "shipped": 73.18808527091988,
+        "pooled": 55.42584116094494,
+        "delta": -17.762244109974933,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "clerk@10": {
+        "shipped": 69.06272736041221,
+        "pooled": 51.01479755575241,
+        "delta": -18.047929804659802,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "clerk@20": {
+        "shipped": 68.65494238474054,
+        "pooled": 50.34092420744432,
+        "delta": -18.31401817729622,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "algolia@10": {
+        "shipped": 61.53895374887175,
+        "pooled": 48.172107286574715,
+        "delta": -13.366846462297033,
+        "n_shipped": 469,
+        "n_pooled": 448
+      },
+      "algolia@20": {
+        "shipped": 61.04301185619766,
+        "pooled": 46.56686221517939,
+        "delta": -14.476149641018266,
+        "n_shipped": 469,
+        "n_pooled": 448
+      }
+    },
+    "complexity:complex": {
+      "quissly@10": {
+        "shipped": 71.84815105854538,
+        "pooled": 58.651399667260996,
+        "delta": -13.196751391284389,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "quissly@20": {
+        "shipped": 71.05747715196934,
+        "pooled": 64.61613406797728,
+        "delta": -6.441343083992058,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "doofinder@10": {
+        "shipped": 52.83580209230223,
+        "pooled": 23.53441612899872,
+        "delta": -29.301385963303506,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "doofinder@20": {
+        "shipped": 52.27411652051907,
+        "pooled": 24.50701166933149,
+        "delta": -27.767104851187586,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "luigisbox@10": {
+        "shipped": 32.313886754567925,
+        "pooled": 12.165938740808853,
+        "delta": -20.147948013759077,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "luigisbox@20": {
+        "shipped": 32.099490192592526,
+        "pooled": 11.326228998803126,
+        "delta": -20.773261193789402,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "clerk@10": {
+        "shipped": 43.27523809138676,
+        "pooled": 19.456178107508826,
+        "delta": -23.81905998387793,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "clerk@20": {
+        "shipped": 43.4651028568001,
+        "pooled": 19.780016264619597,
+        "delta": -23.685086592180504,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "algolia@10": {
+        "shipped": 3.437248955582745,
+        "pooled": 1.1566688961826876,
+        "delta": -2.2805800594000574,
+        "n_shipped": 315,
+        "n_pooled": 298
+      },
+      "algolia@20": {
+        "shipped": 3.4255453274147842,
+        "pooled": 1.004695280128444,
+        "delta": -2.4208500472863403,
+        "n_shipped": 315,
+        "n_pooled": 298
+      }
+    }
+  },
+  "ordering_changes": [
+    {
+      "cell": "overall",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "overall",
+      "k": 20,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:auto",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:auto",
+      "k": 20,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:cosmetics",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:cosmetics",
+      "k": 20,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:electronics",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:electronics",
+      "k": 20,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:fast_fashion",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:fast_fashion",
+      "k": 20,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "clerk",
+        "luigisbox",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "sector:pharmacy",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "luigisbox",
+        "clerk",
+        "doofinder",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "clerk",
+        "luigisbox",
+        "doofinder",
+        "algolia"
+      ]
+    },
+    {
+      "cell": "complexity:medium",
+      "k": 10,
+      "shipped": [
+        "quissly",
+        "doofinder",
+        "luigisbox",
+        "clerk",
+        "algolia"
+      ],
+      "corrected": [
+        "quissly",
+        "luigisbox",
+        "doofinder",
+        "clerk",
+        "algolia"
+      ]
+    }
+  ]
+}

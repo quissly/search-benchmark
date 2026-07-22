@@ -1,0 +1,181 @@
+# Chart data reconciliation
+
+177 checks, 0 failures
+
+- PASS C1 pooled EZR quissly: computed 7.3868, expected 7.3900
+- PASS C1/C2 ezr quissly simple [matches under truncation-to-2dp]: computed 2.1053, expected 2.1000
+- PASS C1/C2 zero quissly simple: computed 0.2105, expected 0.2100
+- PASS C1/C2 alljunk quissly simple: computed 1.8947, expected 1.8900
+- PASS C1/C2 ezr quissly medium: computed 8.5288, expected 8.5300
+- PASS C1/C2 zero quissly medium: computed 1.7058, expected 1.7100
+- PASS C1/C2 alljunk quissly medium: computed 6.8230, expected 6.8200
+- PASS C1/C2 ezr quissly complex: computed 13.6508, expected 13.6500
+- PASS C1/C2 zero quissly complex: computed 11.1111, expected 11.1100
+- PASS C1/C2 alljunk quissly complex: computed 2.5397, expected 2.5400
+- PASS C1 pooled EZR doofinder: computed 11.8348, expected 11.8300
+- PASS C1/C2 ezr doofinder simple: computed 5.6842, expected 5.6800
+- PASS C1/C2 zero doofinder simple: computed 0.2105, expected 0.2100
+- PASS C1/C2 alljunk doofinder simple: computed 5.4737, expected 5.4700
+- PASS C1/C2 ezr doofinder medium: computed 13.8593, expected 13.8600
+- PASS C1/C2 zero doofinder medium: computed 0.0000, expected 0.0000
+- PASS C1/C2 alljunk doofinder medium: computed 13.8593, expected 13.8600
+- PASS C1/C2 ezr doofinder complex: computed 18.0952, expected 18.1000
+- PASS C1/C2 zero doofinder complex: computed 0.0000, expected 0.0000
+- PASS C1/C2 alljunk doofinder complex: computed 18.0952, expected 18.1000
+- PASS C1 pooled EZR clerk: computed 19.7776, expected 19.7800
+- PASS C1/C2 ezr clerk simple: computed 5.2632, expected 5.2600
+- PASS C1/C2 zero clerk simple: computed 0.6316, expected 0.6300
+- PASS C1/C2 alljunk clerk simple: computed 4.6316, expected 4.6300
+- PASS C1/C2 ezr clerk medium: computed 21.7484, expected 21.7500
+- PASS C1/C2 zero clerk medium: computed 0.2132, expected 0.2100
+- PASS C1/C2 alljunk clerk medium: computed 21.5352, expected 21.5400
+- PASS C1/C2 ezr clerk complex: computed 38.7302, expected 38.7300
+- PASS C1/C2 zero clerk complex: computed 0.6349, expected 0.6300
+- PASS C1/C2 alljunk clerk complex: computed 38.0952, expected 38.1000
+- PASS C1 pooled EZR luigisbox: computed 24.4639, expected 24.4600
+- PASS C1/C2 ezr luigisbox simple [matches under truncation-to-2dp]: computed 6.5263, expected 6.5200
+- PASS C1/C2 zero luigisbox simple: computed 1.4737, expected 1.4700
+- PASS C1/C2 alljunk luigisbox simple: computed 5.0526, expected 5.0500
+- PASS C1/C2 ezr luigisbox medium: computed 17.9104, expected 17.9100
+- PASS C1/C2 zero luigisbox medium: computed 5.1173, expected 5.1200
+- PASS C1/C2 alljunk luigisbox medium: computed 12.7932, expected 12.7900
+- PASS C1/C2 ezr luigisbox complex: computed 61.2698, expected 61.2700
+- PASS C1/C2 zero luigisbox complex: computed 45.0794, expected 45.0800
+- PASS C1/C2 alljunk luigisbox complex: computed 16.1905, expected 16.1900
+- PASS C1 pooled EZR algolia: computed 37.8872, expected 37.8900
+- PASS C1/C2 ezr algolia simple: computed 5.8947, expected 5.8900
+- PASS C1/C2 zero algolia simple: computed 1.4737, expected 1.4700
+- PASS C1/C2 alljunk algolia simple: computed 4.4211, expected 4.4200
+- PASS C1/C2 ezr algolia medium [matches under truncation-to-2dp]: computed 30.9168, expected 30.9100
+- PASS C1/C2 zero algolia medium: computed 23.4542, expected 23.4500
+- PASS C1/C2 alljunk algolia medium: computed 7.4627, expected 7.4600
+- PASS C1/C2 ezr algolia complex [matches under truncation-to-2dp]: computed 96.5079, expected 96.5000
+- PASS C1/C2 zero algolia complex: computed 95.8730, expected 95.8700
+- PASS C1/C2 alljunk algolia complex: computed 0.6349, expected 0.6300
+- PASS C3 nDCG quissly simple: computed 91.0179, expected 91.0200
+- PASS C3 nDCG doofinder simple: computed 72.3861, expected 72.3900
+- PASS C3 nDCG clerk simple: computed 66.5711, expected 66.5700
+- PASS C3 nDCG luigisbox simple: computed 70.6410, expected 70.6400
+- PASS C3 nDCG algolia simple: computed 67.5362, expected 67.5400
+- PASS C3 nDCG quissly medium: computed 65.9251, expected 65.9300
+- PASS C3 nDCG doofinder medium: computed 55.7823, expected 55.7800
+- PASS C3 nDCG clerk medium: computed 51.0148, expected 51.0100
+- PASS C3 nDCG luigisbox medium: computed 55.8973, expected 55.9000
+- PASS C3 nDCG algolia medium: computed 48.1721, expected 48.1700
+- PASS C3 nDCG quissly complex: computed 58.6514, expected 58.6500
+- PASS C3 nDCG doofinder complex: computed 23.5344, expected 23.5300
+- PASS C3 nDCG clerk complex: computed 19.4562, expected 19.4600
+- PASS C3 nDCG luigisbox complex: computed 12.1659, expected 12.1700
+- PASS C3 nDCG algolia complex: computed 1.1567, expected 1.1600
+- PASS C3 n simple: computed 466.0000, expected 466.0000
+- PASS C3 n medium: computed 448.0000, expected 448.0000
+- PASS C3 n complex: computed 298.0000, expected 298.0000
+- PASS C4 n simple: computed 443.0000, expected 443.0000
+- PASS C4 recall quissly simple: computed 56.0337, expected 56.0300
+- PASS C4 recall doofinder simple: computed 42.3805, expected 42.3800
+- PASS C4 recall clerk simple: computed 40.2113, expected 40.2100
+- PASS C4 recall luigisbox simple: computed 41.4370, expected 41.4400
+- PASS C4 recall algolia simple: computed 41.0101, expected 41.0100
+- PASS C4 n medium: computed 361.0000, expected 361.0000
+- PASS C4 recall quissly medium: computed 71.5870, expected 71.5900
+- PASS C4 recall doofinder medium: computed 53.9437, expected 53.9400
+- PASS C4 recall clerk medium: computed 50.5348, expected 50.5300
+- PASS C4 recall luigisbox medium: computed 54.0185, expected 54.0200
+- PASS C4 recall algolia medium: computed 48.2331, expected 48.2300
+- PASS C4 n complex: computed 255.0000, expected 255.0000
+- PASS C4 recall quissly complex: computed 73.2916, expected 73.2900
+- PASS C4 recall doofinder complex: computed 23.1989, expected 23.2000
+- PASS C4 recall clerk complex: computed 16.9988, expected 17.0000
+- PASS C4 recall luigisbox complex: computed 8.4301, expected 8.4300
+- PASS C4 recall algolia complex: computed 0.5031, expected 0.5000
+- PASS C5 EZR adv algolia: computed 30.5004, expected 30.5000
+- PASS C5 EZR adv clerk: computed 12.3908, expected 12.3900
+- PASS C5 EZR adv doofinder: computed 4.4480, expected 4.4500
+- PASS C5 EZR adv luigisbox: computed 17.0770, expected 17.0800
+- PASS C5 nDCG adv doofinder: computed 19.5472, expected 19.5500
+- PASS C5 ezr vs algolia CI clears zero [27.88, 33.12]: computed 27.8793, expected 0.0000
+- PASS C5 ezr vs clerk CI clears zero [10.33, 14.46]: computed 10.3257, expected 0.0000
+- PASS C5 ezr vs doofinder CI clears zero [2.70, 6.20]: computed 2.7006, expected 0.0000
+- PASS C5 ezr vs luigisbox CI clears zero [14.85, 19.38]: computed 14.8531, expected 0.0000
+- PASS C5 ndcg vs algolia CI clears zero [27.56, 31.92]: computed 27.5633, expected 0.0000
+- PASS C5 ndcg vs clerk CI clears zero [22.48, 26.65]: computed 22.4793, expected 0.0000
+- PASS C5 ndcg vs doofinder CI clears zero [17.58, 21.54]: computed 17.5836, expected 0.0000
+- PASS C5 ndcg vs luigisbox CI clears zero [20.90, 25.09]: computed 20.9016, expected 0.0000
+- PASS C5 recall vs algolia CI clears zero [29.33, 34.24]: computed 29.3274, expected 0.0000
+- PASS C5 recall vs clerk CI clears zero [24.90, 29.82]: computed 24.8971, expected 0.0000
+- PASS C5 recall vs doofinder CI clears zero [21.38, 26.25]: computed 21.3772, expected 0.0000
+- PASS C5 recall vs luigisbox CI clears zero [25.19, 30.27]: computed 25.1871, expected 0.0000
+- PASS C6 EZR auto/quissly vs REPORT_INPUTS: computed 0.0000, expected 0.0000
+- PASS C6 nDCG auto/quissly vs REPORT_INPUTS: computed 80.0600, expected 80.0600
+- PASS C6 EZR auto/doofinder vs REPORT_INPUTS: computed 2.2200, expected 2.2200
+- PASS C6 nDCG auto/doofinder vs REPORT_INPUTS: computed 59.5400, expected 59.5400
+- PASS C6 EZR auto/clerk vs REPORT_INPUTS: computed 6.6700, expected 6.6700
+- PASS C6 nDCG auto/clerk vs REPORT_INPUTS: computed 58.1100, expected 58.1100
+- PASS C6 EZR auto/luigisbox vs REPORT_INPUTS: computed 12.7800, expected 12.7800
+- PASS C6 nDCG auto/luigisbox vs REPORT_INPUTS: computed 57.3000, expected 57.3000
+- PASS C6 EZR auto/algolia vs REPORT_INPUTS: computed 26.6700, expected 26.6700
+- PASS C6 nDCG auto/algolia vs REPORT_INPUTS: computed 51.0600, expected 51.0600
+- PASS C6 EZR cosmetics/quissly vs REPORT_INPUTS: computed 1.6700, expected 1.6700
+- PASS C6 nDCG cosmetics/quissly vs REPORT_INPUTS: computed 79.0700, expected 79.0700
+- PASS C6 EZR cosmetics/doofinder vs REPORT_INPUTS: computed 2.7800, expected 2.7800
+- PASS C6 nDCG cosmetics/doofinder vs REPORT_INPUTS: computed 66.2400, expected 66.2400
+- PASS C6 EZR cosmetics/clerk vs REPORT_INPUTS: computed 5.5600, expected 5.5600
+- PASS C6 nDCG cosmetics/clerk vs REPORT_INPUTS: computed 58.2600, expected 58.2600
+- PASS C6 EZR cosmetics/luigisbox vs REPORT_INPUTS: computed 12.7800, expected 12.7800
+- PASS C6 nDCG cosmetics/luigisbox vs REPORT_INPUTS: computed 62.7400, expected 62.7400
+- PASS C6 EZR cosmetics/algolia vs REPORT_INPUTS: computed 30.5600, expected 30.5600
+- PASS C6 nDCG cosmetics/algolia vs REPORT_INPUTS: computed 53.1200, expected 53.1200
+- PASS C6 EZR electronics/quissly vs REPORT_INPUTS: computed 2.2200, expected 2.2200
+- PASS C6 nDCG electronics/quissly vs REPORT_INPUTS: computed 76.0000, expected 76.0000
+- PASS C6 EZR electronics/doofinder vs REPORT_INPUTS: computed 2.2200, expected 2.2200
+- PASS C6 nDCG electronics/doofinder vs REPORT_INPUTS: computed 51.3700, expected 51.3700
+- PASS C6 EZR electronics/clerk vs REPORT_INPUTS: computed 9.4400, expected 9.4400
+- PASS C6 nDCG electronics/clerk vs REPORT_INPUTS: computed 49.1700, expected 49.1700
+- PASS C6 EZR electronics/luigisbox vs REPORT_INPUTS: computed 16.6700, expected 16.6700
+- PASS C6 nDCG electronics/luigisbox vs REPORT_INPUTS: computed 50.1100, expected 50.1100
+- PASS C6 EZR electronics/algolia vs REPORT_INPUTS: computed 26.1100, expected 26.1100
+- PASS C6 nDCG electronics/algolia vs REPORT_INPUTS: computed 46.4500, expected 46.4500
+- PASS C6 EZR fast_fashion/quissly vs REPORT_INPUTS: computed 8.3300, expected 8.3300
+- PASS C6 nDCG fast_fashion/quissly vs REPORT_INPUTS: computed 69.3500, expected 69.3500
+- PASS C6 EZR fast_fashion/doofinder vs REPORT_INPUTS: computed 16.1100, expected 16.1100
+- PASS C6 nDCG fast_fashion/doofinder vs REPORT_INPUTS: computed 49.2000, expected 49.2000
+- PASS C6 EZR fast_fashion/clerk vs REPORT_INPUTS: computed 27.7800, expected 27.7800
+- PASS C6 nDCG fast_fashion/clerk vs REPORT_INPUTS: computed 43.6600, expected 43.6600
+- PASS C6 EZR fast_fashion/luigisbox vs REPORT_INPUTS: computed 40.0000, expected 40.0000
+- PASS C6 nDCG fast_fashion/luigisbox vs REPORT_INPUTS: computed 44.4000, expected 44.4000
+- PASS C6 EZR fast_fashion/algolia vs REPORT_INPUTS: computed 47.2200, expected 47.2200
+- PASS C6 nDCG fast_fashion/algolia vs REPORT_INPUTS: computed 39.8700, expected 39.8700
+- PASS C6 EZR furniture/quissly vs REPORT_INPUTS: computed 1.6800, expected 1.6800
+- PASS C6 nDCG furniture/quissly vs REPORT_INPUTS: computed 76.8600, expected 76.8600
+- PASS C6 EZR furniture/doofinder vs REPORT_INPUTS: computed 2.7900, expected 2.7900
+- PASS C6 nDCG furniture/doofinder vs REPORT_INPUTS: computed 57.9300, expected 57.9300
+- PASS C6 EZR furniture/clerk vs REPORT_INPUTS: computed 9.5000, expected 9.5000
+- PASS C6 nDCG furniture/clerk vs REPORT_INPUTS: computed 52.7300, expected 52.7300
+- PASS C6 EZR furniture/luigisbox vs REPORT_INPUTS: computed 12.8500, expected 12.8500
+- PASS C6 nDCG furniture/luigisbox vs REPORT_INPUTS: computed 55.4700, expected 55.4700
+- PASS C6 EZR furniture/algolia vs REPORT_INPUTS: computed 27.9300, expected 27.9300
+- PASS C6 nDCG furniture/algolia vs REPORT_INPUTS: computed 47.0600, expected 47.0600
+- PASS C6 EZR marketplace/quissly vs REPORT_INPUTS: computed 23.8900, expected 23.8900
+- PASS C6 nDCG marketplace/quissly vs REPORT_INPUTS: computed 67.1300, expected 67.1300
+- PASS C6 EZR marketplace/doofinder vs REPORT_INPUTS: computed 26.1100, expected 26.1100
+- PASS C6 nDCG marketplace/doofinder vs REPORT_INPUTS: computed 55.8800, expected 55.8800
+- PASS C6 EZR marketplace/clerk vs REPORT_INPUTS: computed 46.6700, expected 46.6700
+- PASS C6 nDCG marketplace/clerk vs REPORT_INPUTS: computed 37.9000, expected 37.9000
+- PASS C6 EZR marketplace/luigisbox vs REPORT_INPUTS: computed 48.8900, expected 48.8900
+- PASS C6 nDCG marketplace/luigisbox vs REPORT_INPUTS: computed 41.7000, expected 41.7000
+- PASS C6 EZR marketplace/algolia vs REPORT_INPUTS: computed 58.3300, expected 58.3300
+- PASS C6 nDCG marketplace/algolia vs REPORT_INPUTS: computed 32.1600, expected 32.1600
+- PASS C6 EZR pharmacy/quissly vs REPORT_INPUTS: computed 13.8900, expected 13.8900
+- PASS C6 nDCG pharmacy/quissly vs REPORT_INPUTS: computed 66.7500, expected 66.7500
+- PASS C6 EZR pharmacy/doofinder vs REPORT_INPUTS: computed 30.5600, expected 30.5600
+- PASS C6 nDCG pharmacy/doofinder vs REPORT_INPUTS: computed 39.1200, expected 39.1200
+- PASS C6 EZR pharmacy/clerk vs REPORT_INPUTS: computed 32.7800, expected 32.7800
+- PASS C6 nDCG pharmacy/clerk vs REPORT_INPUTS: computed 42.9200, expected 42.9200
+- PASS C6 EZR pharmacy/luigisbox vs REPORT_INPUTS: computed 27.2200, expected 27.2200
+- PASS C6 nDCG pharmacy/luigisbox vs REPORT_INPUTS: computed 42.3400, expected 42.3400
+- PASS C6 EZR pharmacy/algolia vs REPORT_INPUTS: computed 48.3300, expected 48.3300
+- PASS C6 nDCG pharmacy/algolia vs REPORT_INPUTS: computed 36.7400, expected 36.7400
+- PASS C7 partial: computed 35.0000, expected 35.0000
+- PASS C7 inconclusive: computed 7.0000, expected 7.0000
+- PASS C7 catalog-gap: computed 5.0000, expected 5.0000
+- PASS C7 engines-missed: computed 3.0000, expected 3.0000

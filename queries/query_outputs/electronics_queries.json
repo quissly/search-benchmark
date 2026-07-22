@@ -1,0 +1,1262 @@
+[
+  {
+    "query_id": "q_0559",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "waterproof action camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0453",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "webcam",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0472",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "headphones",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0609",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "how to best manage and hide cables for a wall-mounted television setup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0457",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "gaming PC",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0540",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "portable USB-C monitor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0499",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "action camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0590",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "what soundbar is best for enhancing dialogue clarity on a Samsung QLED TV",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0490",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "wireless charger",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0567",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "Dolby Atmos soundbar system",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0502",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smart plug",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0500",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "security camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0519",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "noise-cancelling sport earbuds",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0581",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "outdoor security camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0601",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "how to fix crackling audio from my desktop computer speakers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0515",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "electric shaver",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0505",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "video doorbell",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0599",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best value tablet for digital note-taking and reading textbooks under $300",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0539",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "144Hz gaming monitor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0623",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best web camera for professional video conferencing in a low-light home office under $150",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0575",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "ECG monitor smartwatch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0529",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "refurbished MacBook Pro",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0561",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "compact point-and-shoot camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0533",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "all-in-one desktop computer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0468",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "speakers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0531",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "powerful gaming desktop",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0614",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a smart thermostat that learns my schedule to save on energy bills",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0588",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "durable waterproof bluetooth speaker for kayaking and beach trips",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0480",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "turntable",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0467",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "docking station",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0518",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "wireless over-ear headphones",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0557",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "silicone phone grip",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0477",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "microphone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0455",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "hard drive",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0587",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "most reliable 4K smart TV with HDR support under $700",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0509",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "VR headset",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0600",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "lightweight laptop with all-day battery life for a frequent business traveler",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0550",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "leather iPhone wallet case",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0562",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "GPS drone with camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0496",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "DSLR",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0628",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a reliable color laser printer for a small business that needs to print marketing materials",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0508",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "gaming console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0532",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "fanless mini PC",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0522",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "studio reference monitors",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0535",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "used business laptop",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0506",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smart thermostat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0475",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "Blu-ray player",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0495",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "digital camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0501",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "memory card",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0627",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best smart home hub for unifying devices from different brands like Philips Hue and Ring",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0483",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "bluetooth speaker",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0608",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a smart lighting system that integrates with Amazon Alexa for a whole apartment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0489",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "phone charger",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0589",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "solution for digitizing a large collection of old family photo slides",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0594",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a compatible high-speed SSD upgrade for a PlayStation 5 console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0592",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "complete home office technology setup for a remote graphic designer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0464",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "power supply",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0610",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "what microphone should I get for my Sony a7IV to record professional-quality interviews",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0576",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "wireless gaming headset",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0478",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "amplifier",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0613",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best way to clean the inside of a dusty desktop PC without damaging components",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0619",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best gaming headset with a clear microphone for team communication under $100",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0551",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "rugged waterproof phone case",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0454",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "SSD",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0579",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "VR headset for PC",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0527",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "compact bookshelf speakers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0563",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "used DSLR camera body",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0528",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "lightweight travel laptop",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0538",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "curved ultrawide monitor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0611",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best budget-friendly projector for outdoor movie nights in the backyard under $250",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0544",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "multi-device bluetooth keyboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0541",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "vertical ergonomic mouse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0555",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "dual port car charger",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0524",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "in-ear stage monitors",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0580",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "haptic feedback gaming chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0553",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "screen protector for Pixel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0621",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "what's the best method for securely wiping all data from an old hard drive",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0568",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "4K streaming media player",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0470",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "television",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0558",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "4K mirrorless camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0491",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "phone case",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0596",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "portable power station for running small appliances during a camping trip",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0597",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "device to automatically back up photos from my phone and my partner's phone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0523",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "bone conduction headphones",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0459",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "router",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0469",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "headset",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0465",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "USB drive",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0452",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "mouse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0504",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smart speaker",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0492",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "ereader",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0615",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best robot vacuum that can handle pet hair on both carpet and hardwood floors under $400",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0462",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "RAM",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0497",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "mirrorless camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0534",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "Chromebook for students",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0481",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smart TV",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0547",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "mesh WiFi system",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0546",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "high-speed SD card",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0595",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best noise-cancelling headphones for studying in a loud college dorm under $150",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0560",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "drone for beginners",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0593",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "how to stop my gaming laptop from thermal throttling during long sessions",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0606",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best e-reader with a warm light for reading in bed without eye strain",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0566",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "smart 4K projector",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0476",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "home theater",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0625",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "solution for connecting a modern laptop with USB-C to an older VGA projector",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0556",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "used Samsung Galaxy phone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0458",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "printer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0484",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smartphone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0582",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "color smart light bulbs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0530",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "14-inch touchscreen laptop",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0585",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "how to improve weak Wi-Fi signal across a multi-story home",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0542",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "tenkeyless mechanical keyboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0451",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "keyboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0552",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "high-capacity power bank",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0629",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "what technology is needed for a simple podcasting setup for two people",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0620",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "high-capacity portable battery pack for charging a laptop and phone on the go",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0583",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "solar-powered power bank",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0516",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "air purifier",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0605",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "what device can I use to convert my old vinyl record collection to MP3",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0543",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "4K webcam for streaming",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0503",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smart light",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0564",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "gimbal for smartphone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0548",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "MagSafe compatible car mount",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0482",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "streaming device",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0554",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "unlocked Google Pixel phone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0471",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "soundbar",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0617",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "how to extend the battery life on an aging android smartphone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0474",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "projector",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0486",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smartwatch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0572",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "fitness tracker for swimming",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0578",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "refurbished PlayStation 5",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0570",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "outdoor movie projector",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0466",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "external drive",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0571",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "smartwatch with GPS",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0616",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a complete tech kit for a student starting university in the fall",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0460",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "graphics card",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0450",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "monitor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0511",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "gaming keyboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0602",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "ergonomic wireless mouse that works well for people with carpal tunnel syndrome",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0521",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "portable party speaker",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0569",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "universal backlit remote",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0537",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "backlit mechanical keyboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0612",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a portable and rugged external hard drive for backing up files on location",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0604",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a quiet and efficient air purifier for a large open-plan living room",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0624",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a durable tablet with a protective case for use on a construction site",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0586",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best external monitor to pair with a MacBook Pro for color-accurate photo editing",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0525",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "true wireless earbuds",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0517",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "digital frame",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0536",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "wireless ergonomic mouse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0591",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best entry-level drone with obstacle avoidance for a beginner under $400",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0487",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "fitness tracker",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0520",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "waterproof bluetooth speaker",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0461",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "CPU",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0565",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "65-inch OLED TV",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0603",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best security camera system for a home with pets under $500",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0545",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "USB-C docking station",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0598",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "which graphics card should I get to go with my AMD Ryzen 7 7800X3D CPU",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0507",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "smart lock",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0513",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "calculator",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0514",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "battery charger",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0473",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "earbuds",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0607",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "entry-level mirrorless camera kit for aspiring vloggers under $1000",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0622",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "a wireless charging stand that can power an iPhone, Apple Watch, and AirPods simultaneously",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0577",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "pro gaming controller",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0493",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "GPS",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0626",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "best high-refresh-rate gaming monitor to take advantage of an NVIDIA RTX 4080",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0494",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "camera",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0456",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "laptop",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0463",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "motherboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0512",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "gaming headset",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0584",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "braided USB-C cable",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0510",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "gaming mouse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0488",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "power bank",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0618",
+    "category": "electronics",
+    "complexity": "complex",
+    "text_query": "what kind of docking station do I need for a Dell XPS to connect to two 4K monitors",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0574",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "kids GPS tracker watch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0526",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "smart soundbar with Alexa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0498",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "drone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0573",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "hybrid analog smartwatch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0479",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "receiver",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0485",
+    "category": "electronics",
+    "complexity": "simple",
+    "text_query": "tablet",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0549",
+    "category": "electronics",
+    "complexity": "medium",
+    "text_query": "fast wireless charger",
+    "image_url": null
+  }
+]

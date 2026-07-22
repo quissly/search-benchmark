@@ -1,0 +1,16 @@
+Engine Name,Category,Complexity,Zero-Result Rate (%),Precision@10 (%),Precision@20 (%),Query Count
+algolia,pharmaceuticals,complex,93.33,2.44,2.44,45
+algolia,pharmaceuticals,medium,37.31,21.83,19.07,67
+algolia,pharmaceuticals,simple,5.88,57.85,52.98,68
+clerk,pharmaceuticals,complex,2.22,14.19,12.66,45
+clerk,pharmaceuticals,medium,1.49,24.45,20.87,67
+clerk,pharmaceuticals,simple,4.41,52.33,50.49,68
+doofinder,pharmaceuticals,complex,0.0,6.51,5.06,45
+doofinder,pharmaceuticals,medium,0.0,25.81,25.58,67
+doofinder,pharmaceuticals,simple,1.47,56.44,55.44,68
+luigisbox,pharmaceuticals,complex,20.0,11.2,9.78,45
+luigisbox,pharmaceuticals,medium,2.99,25.62,22.57,67
+luigisbox,pharmaceuticals,simple,7.35,51.06,49.57,68
+quissly,pharmaceuticals,complex,8.89,45.66,44.44,45
+quissly,pharmaceuticals,medium,0.0,24.06,22.7,67
+quissly,pharmaceuticals,simple,0.0,71.92,65.45,68

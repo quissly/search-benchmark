@@ -1,0 +1,16 @@
+Engine Name,Category,Complexity,Zero-Result Rate (%),Precision@10 (%),Precision@20 (%),Query Count
+algolia,auto_parts,complex,95.56,4.44,4.44,45
+algolia,auto_parts,medium,4.48,56.73,50.38,67
+algolia,auto_parts,simple,0.0,70.19,71.69,68
+clerk,auto_parts,complex,0.0,18.59,17.66,45
+clerk,auto_parts,medium,0.0,55.86,50.72,67
+clerk,auto_parts,simple,0.0,70.95,70.57,68
+doofinder,auto_parts,complex,0.0,23.82,22.22,45
+doofinder,auto_parts,medium,0.0,57.66,52.67,67
+doofinder,auto_parts,simple,0.0,72.84,71.78,68
+luigisbox,auto_parts,complex,28.89,19.95,20.12,45
+luigisbox,auto_parts,medium,0.0,58.54,50.07,67
+luigisbox,auto_parts,simple,0.0,73.58,70.84,68
+quissly,auto_parts,complex,0.0,47.68,44.76,45
+quissly,auto_parts,medium,0.0,55.66,48.61,67
+quissly,auto_parts,simple,0.0,95.21,92.37,68

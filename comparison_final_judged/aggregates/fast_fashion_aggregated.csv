@@ -1,0 +1,16 @@
+Engine Name,Category,Complexity,Zero-Result Rate (%),Precision@10 (%),Precision@20 (%),Query Count
+algolia,fashion,complex,100.0,0.0,0.0,45
+algolia,fashion,medium,40.3,21.38,20.99,67
+algolia,fashion,simple,1.47,76.94,73.26,68
+clerk,fashion,complex,0.0,11.08,10.33,45
+clerk,fashion,medium,0.0,17.45,17.06,67
+clerk,fashion,simple,0.0,77.3,74.71,68
+doofinder,fashion,complex,0.0,14.11,12.13,45
+doofinder,fashion,medium,0.0,16.53,15.32,67
+doofinder,fashion,simple,0.0,82.82,79.02,68
+luigisbox,fashion,complex,84.44,3.15,3.15,45
+luigisbox,fashion,medium,8.96,21.61,20.84,67
+luigisbox,fashion,simple,1.47,84.96,81.54,68
+quissly,fashion,complex,24.44,43.39,44.56,45
+quissly,fashion,medium,0.0,26.29,23.66,67
+quissly,fashion,simple,0.0,84.09,79.61,68

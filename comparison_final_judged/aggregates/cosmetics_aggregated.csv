@@ -1,0 +1,16 @@
+Engine Name,Category,Complexity,Zero-Result Rate (%),Precision@10 (%),Precision@20 (%),Query Count
+algolia,personal_care,complex,95.56,2.22,2.22,45
+algolia,personal_care,medium,10.45,60.08,52.22,67
+algolia,personal_care,simple,1.47,72.04,70.65,68
+clerk,personal_care,complex,0.0,30.02,27.02,45
+clerk,personal_care,medium,0.0,61.83,56.02,67
+clerk,personal_care,simple,0.0,62.72,61.55,68
+doofinder,personal_care,complex,0.0,29.81,23.25,45
+doofinder,personal_care,medium,0.0,65.45,58.75,67
+doofinder,personal_care,simple,0.0,72.67,69.98,68
+luigisbox,personal_care,complex,17.78,22.48,20.49,45
+luigisbox,personal_care,medium,0.0,64.68,58.89,67
+luigisbox,personal_care,simple,0.0,75.81,72.94,68
+quissly,personal_care,complex,0.0,53.88,48.67,45
+quissly,personal_care,medium,0.0,61.34,56.43,67
+quissly,personal_care,simple,1.47,84.03,80.98,68

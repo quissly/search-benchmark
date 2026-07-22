@@ -1,0 +1,1255 @@
+[
+  {
+    "query_id": "q_0292",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "plant stand",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0234",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "console table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0321",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "swivel bar stools",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0387",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "outdoor bistro set for a small apartment balcony under $150",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0276",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "standing desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0314",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "sleeper sofa bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0371",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "lightweight patio set that is easy to move and store during winter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0253",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "sideboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0326",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "convertible futon couch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0362",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "sectional sofa with fully removable and machine-washable cushion covers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0398",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "professional-grade conference table with built-in power outlets for a corporate meeting room",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0309",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "faux leather ottoman",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0402",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "comfortable high-back armchair with good lumbar support for a cozy reading nook",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0396",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "convertible crib that transforms into a toddler bed for a growing child",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0397",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "extendable dining table for hosting large holiday dinners of ten or more people",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0392",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "durable and weatherproof dining table for an unsheltered outdoor deck",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0399",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "low-maintenance outdoor lounge chairs for a chlorinated poolside area",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0254",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "buffet",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0307",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "distressed pine nightstand",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0255",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "hutch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0311",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "extendable dining table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0261",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "mattress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0288",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "stool",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0281",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "outdoor chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0380",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "storage bench to go at the foot of a king-sized upholstered bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0299",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "travertine coffee table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0252",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "counter stool",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0342",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "counter height table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0328",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "outdoor weatherproof bench",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0370",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "modular shelving unit that can be expanded over time as my collection grows",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0323",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "L-shaped office desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0373",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "set of dining chairs that perfectly match a reclaimed wood farmhouse table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0393",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "compact writing desk for a student's small dormitory room",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0257",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "kitchen island",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0319",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "adjustable height desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0357",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "vintage metal cart",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0394",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "deep-seated, comfortable sectional for family movie nights in the basement",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0388",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "full-length wardrobe with sliding mirror doors and internal organizers under $500",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0313",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "modular sectional sofa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0330",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "kitchen island cart",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0332",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "armoire with mirror",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0354",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "childrens storage bench",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0403",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "bunk bed with a trundle for a kid's room to accommodate sleepovers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0386",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "stylish TV stand for a 65-inch television with closed storage under $200",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0366",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "height-adjustable standing desk converter for an existing office setup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0270",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bedroom set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0287",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "cabinet",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0308",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "glass top desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0334",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "drop-leaf kitchen table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0344",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "low profile sectional",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0233",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "side table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0265",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "armoire",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0245",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "shelving unit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0273",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0231",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "coffee table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0259",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bed frame",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0286",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0349",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "like new bookshelf",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0353",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "boys loft bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0280",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "outdoor table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0294",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "walnut dining table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0339",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "queen size sleigh bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0295",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "black leather sofa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0322",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "rocking nursery glider",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0372",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "low-profile media console to go under a wall-mounted 75-inch TV",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0315",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "lift top coffee table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0346",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "vintage writing desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0374",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "velvet accent chair in a jewel tone to complement a navy blue chesterfield sofa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0400",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "multi-functional ottoman with hidden storage for a small living room",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0275",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "computer desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0279",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "patio set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0239",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "ottoman",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0238",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bookcase",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0310",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "sofa with chaise",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0300",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "chrome frame bookshelf",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0247",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "dining chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0335",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "small apartment sofa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0241",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "chaise lounge",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0395",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "elegant vanity table with bright, dimmable lighting for a makeup artist's studio",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0327",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "stackable dining chairs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0296",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "velvet swivel chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0331",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "nightstand with USB",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0282",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "adirondack chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0278",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "office shelf",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0298",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "marble top console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0385",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "set of four upholstered dining chairs for a small kitchen under $250",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0269",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bench",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0384",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "large L-shaped computer desk for a dual-monitor home office setup under $300",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0290",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "entry table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0390",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "multi-drawer horizontal dresser for a master bedroom under $350",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0284",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "hammock",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0389",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "electric reclining armchair with USB charging ports and cup holders under $600",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0244",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "room divider",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0382",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "comfortable sleeper sofa with a memory foam mattress for a guest room under $800",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0262",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "nightstand",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0250",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "dining set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0274",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "office chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0363",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "apartment sofa that can fit through a narrow 30-inch doorway",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0251",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bar stool",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0356",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "small velvet settee",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0359",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "modern glass desk",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0358",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "white wood crib",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0263",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "dresser",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0249",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "kitchen chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0289",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "storage bench",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0352",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "girls vanity set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0303",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "rattan patio set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0258",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0324",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "U-shaped kitchen banquette",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0355",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "large leather ottoman",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0243",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "accent chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0246",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "dining table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0325",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "nesting coffee tables",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0401",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "formal china cabinet with glass doors for displaying heirlooms in a dining room",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0283",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "patio sofa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0364",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "childproof bookshelf with rounded edges and an anti-tip kit included",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0266",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "wardrobe",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0316",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "desk with hutch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0367",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "sound-absorbing room divider for an open-concept loft apartment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0237",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bookshelf",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0337",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "narrow entryway table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0240",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "footstool",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0343",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "bar height pub set",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0297",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "boucle accent chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0360",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "ergonomic office chair to help with lower back pain",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0260",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "headboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0320",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "bed with storage",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0351",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "rustic farmhouse table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0341",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "twin loft bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0369",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "stain-resistant fabric armchair for a family with young children",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0268",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "vanity table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0377",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "modern round coffee table to soften the look of a boxy living room with angular furniture",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0350",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "mid-century credenza",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0329",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "bookcase with ladder",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0227",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "couch",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0228",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "loveseat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0242",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "futon",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0230",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "recliner",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0291",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "coat rack",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0301",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "brass finish end-table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0317",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "wall-mounted media console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0378",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "bookshelf that fits into the awkward alcove next to a brick fireplace",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0256",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "china cabinet",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0368",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "entryway cabinet with ventilated doors for shoe storage to prevent odor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0302",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "linen upholstered headboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0235",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "media console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0271",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "bunk bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0383",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "solid wood queen bed frame with a tall headboard under $400",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0375",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "narrow console table to place behind a long sectional couch against a wall",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0232",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "end table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0305",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "mango wood dresser",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0336",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "oversized club chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0277",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "filing cabinet",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0361",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "scratch-proof coffee table safe for homes with cats and dogs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0236",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "tv stand",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0248",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "kitchen table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0379",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "kitchen island stools that tuck completely underneath the counter overhang",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0267",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "vanity",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0226",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "sofa",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0293",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "solid oak sideboard",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0340",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "king platform bed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0338",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "extra long console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0348",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "used office chair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0345",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "deep seat armchair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0318",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "floating nightstand drawer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0365",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "bed frame with reinforced center support for a heavy memory foam mattress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0333",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "electric fireplace console",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0347",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "antique vanity table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0376",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "pair of nightstands that are the right height for a tall pillow-top mattress",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0229",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "armchair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0404",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "portable and foldable massage table for a mobile physical therapist",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0312",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "power reclining loveseat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0306",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "reclaimed wood bench",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0264",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "chest",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0272",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "daybed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0391",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "tall corner bookshelf for maximizing storage in a small apartment under $120",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0285",
+    "category": "furniture",
+    "complexity": "simple",
+    "text_query": "table",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0304",
+    "category": "furniture",
+    "complexity": "medium",
+    "text_query": "woven wicker rocker",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0381",
+    "category": "furniture",
+    "complexity": "complex",
+    "text_query": "sideboard cabinet that coordinates with a mid-century modern dining set",
+    "image_url": null
+  }
+]

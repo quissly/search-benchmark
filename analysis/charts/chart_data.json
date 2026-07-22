@@ -1,0 +1,362 @@
+{
+ "palette": {
+  "quissly": "#6366f1",
+  "doofinder": "#ef4444",
+  "algolia": "#f59e0b",
+  "luigisbox": "#10b981",
+  "clerk": "#ec4899"
+ },
+ "palette_source": "../website/client/src/pages/comparison/data.ts lines 28-32 (ENGINE_META)",
+ "display": {
+  "quissly": "Quissly",
+  "doofinder": "Doofinder",
+  "clerk": "Clerk.io",
+  "luigisbox": "Luigi's Box",
+  "algolia": "Algolia"
+ },
+ "ezr_pooled": {
+  "quissly": 7.386814932486101,
+  "doofinder": 11.834789515488483,
+  "clerk": 19.777601270849882,
+  "luigisbox": 24.463860206513104,
+  "algolia": 37.88721207307387
+ },
+ "ezr_tier": {
+  "quissly": [
+   2.1052631578947367,
+   8.528784648187633,
+   13.65079365079365
+  ],
+  "doofinder": [
+   5.684210526315789,
+   13.859275053304904,
+   18.095238095238095
+  ],
+  "clerk": [
+   5.263157894736842,
+   21.748400852878465,
+   38.730158730158735
+  ],
+  "luigisbox": [
+   6.526315789473684,
+   17.91044776119403,
+   61.26984126984127
+  ],
+  "algolia": [
+   5.894736842105263,
+   30.916844349680172,
+   96.5079365079365
+  ]
+ },
+ "zero_tier": {
+  "quissly": [
+   0.21052631578947367,
+   1.7057569296375266,
+   11.11111111111111
+  ],
+  "doofinder": [
+   0.21052631578947367,
+   0.0,
+   0.0
+  ],
+  "clerk": [
+   0.631578947368421,
+   0.21321961620469082,
+   0.6349206349206349
+  ],
+  "luigisbox": [
+   1.4736842105263157,
+   5.11727078891258,
+   45.07936507936508
+  ],
+  "algolia": [
+   1.4736842105263157,
+   23.454157782515992,
+   95.87301587301587
+  ]
+ },
+ "alljunk_tier": {
+  "quissly": [
+   1.8947368421052633,
+   6.823027718550106,
+   2.5396825396825395
+  ],
+  "doofinder": [
+   5.473684210526316,
+   13.859275053304904,
+   18.095238095238095
+  ],
+  "clerk": [
+   4.631578947368421,
+   21.535181236673772,
+   38.095238095238095
+  ],
+  "luigisbox": [
+   5.052631578947368,
+   12.79317697228145,
+   16.19047619047619
+  ],
+  "algolia": [
+   4.421052631578947,
+   7.462686567164178,
+   0.6349206349206349
+  ]
+ },
+ "tier_n": {
+  "simple": 475,
+  "medium": 469,
+  "complex": 315
+ },
+ "ndcg_tier": {
+  "quissly": [
+   91.01785951075408,
+   65.9251065042407,
+   58.651399667260996
+  ],
+  "doofinder": [
+   72.38614114511293,
+   55.78234804114973,
+   23.53441612899872
+  ],
+  "clerk": [
+   66.571129787595,
+   51.01479755575241,
+   19.456178107508826
+  ],
+  "luigisbox": [
+   70.64095492759557,
+   55.89728356903135,
+   12.165938740808853
+  ],
+  "algolia": [
+   67.53618922343733,
+   48.172107286574715,
+   1.1566688961826876
+  ]
+ },
+ "ndcg_tier_n": [
+  466,
+  448,
+  298
+ ],
+ "recall_tier": {
+  "quissly": [
+   56.0336504681502,
+   71.58698002686084,
+   73.29162587821028
+  ],
+  "doofinder": [
+   42.380513731803426,
+   53.94366142380294,
+   23.198887554303184
+  ],
+  "clerk": [
+   40.211250544995345,
+   50.53482362864503,
+   16.99875660622549
+  ],
+  "luigisbox": [
+   41.43700338219507,
+   54.018522781697655,
+   8.430098844168423
+  ],
+  "algolia": [
+   41.01010681343286,
+   48.23311121909204,
+   0.5030779855875146
+  ]
+ },
+ "recall_tier_n": [
+  443,
+  361,
+  255
+ ],
+ "forest": {
+  "ezr": {
+   "algolia": {
+    "adv": 30.5004,
+    "lo": 27.8793,
+    "hi": 33.1215
+   },
+   "clerk": {
+    "adv": 12.3908,
+    "lo": 10.3257,
+    "hi": 14.4559
+   },
+   "doofinder": {
+    "adv": 4.4479999999999995,
+    "lo": 2.7005999999999997,
+    "hi": 6.1954
+   },
+   "luigisbox": {
+    "adv": 17.077,
+    "lo": 14.8531,
+    "hi": 19.3805
+   }
+  },
+  "ndcg": {
+   "algolia": {
+    "adv": 29.7271,
+    "lo": 27.5633,
+    "hi": 31.921699999999998
+   },
+   "clerk": {
+    "adv": 24.548000000000002,
+    "lo": 22.4793,
+    "hi": 26.648899999999998
+   },
+   "doofinder": {
+    "adv": 19.5472,
+    "lo": 17.5836,
+    "hi": 21.537200000000002
+   },
+   "luigisbox": {
+    "adv": 22.9709,
+    "lo": 20.901600000000002,
+    "hi": 25.0877
+   }
+  },
+  "recall": {
+   "algolia": {
+    "adv": 31.772699999999997,
+    "lo": 29.327399999999997,
+    "hi": 34.2432
+   },
+   "clerk": {
+    "adv": 27.3502,
+    "lo": 24.8971,
+    "hi": 29.8155
+   },
+   "doofinder": {
+    "adv": 23.7877,
+    "lo": 21.3772,
+    "hi": 26.253700000000002
+   },
+   "luigisbox": {
+    "adv": 27.7131,
+    "lo": 25.1871,
+    "hi": 30.268800000000002
+   }
+  }
+ },
+ "forest_recall_source": "analysis/bootstrap/20260718_112921Z/bootstrap_results.csv",
+ "heat": {
+  "ezr": {
+   "auto": {
+    "quissly": 0.0,
+    "doofinder": 2.22,
+    "clerk": 6.67,
+    "luigisbox": 12.78,
+    "algolia": 26.67
+   },
+   "cosmetics": {
+    "quissly": 1.67,
+    "doofinder": 2.78,
+    "clerk": 5.56,
+    "luigisbox": 12.78,
+    "algolia": 30.56
+   },
+   "electronics": {
+    "quissly": 2.22,
+    "doofinder": 2.22,
+    "clerk": 9.44,
+    "luigisbox": 16.67,
+    "algolia": 26.11
+   },
+   "fast_fashion": {
+    "quissly": 8.33,
+    "doofinder": 16.11,
+    "clerk": 27.78,
+    "luigisbox": 40.0,
+    "algolia": 47.22
+   },
+   "furniture": {
+    "quissly": 1.68,
+    "doofinder": 2.79,
+    "clerk": 9.5,
+    "luigisbox": 12.85,
+    "algolia": 27.93
+   },
+   "marketplace": {
+    "quissly": 23.89,
+    "doofinder": 26.11,
+    "clerk": 46.67,
+    "luigisbox": 48.89,
+    "algolia": 58.33
+   },
+   "pharmacy": {
+    "quissly": 13.89,
+    "doofinder": 30.56,
+    "clerk": 32.78,
+    "luigisbox": 27.22,
+    "algolia": 48.33
+   }
+  },
+  "ndcg": {
+   "auto": {
+    "quissly": 80.06,
+    "doofinder": 59.54,
+    "clerk": 58.11,
+    "luigisbox": 57.3,
+    "algolia": 51.06
+   },
+   "cosmetics": {
+    "quissly": 79.07,
+    "doofinder": 66.24,
+    "clerk": 58.26,
+    "luigisbox": 62.74,
+    "algolia": 53.12
+   },
+   "electronics": {
+    "quissly": 76.0,
+    "doofinder": 51.37,
+    "clerk": 49.17,
+    "luigisbox": 50.11,
+    "algolia": 46.45
+   },
+   "fast_fashion": {
+    "quissly": 69.35,
+    "doofinder": 49.2,
+    "clerk": 43.66,
+    "luigisbox": 44.4,
+    "algolia": 39.87
+   },
+   "furniture": {
+    "quissly": 76.86,
+    "doofinder": 57.93,
+    "clerk": 52.73,
+    "luigisbox": 55.47,
+    "algolia": 47.06
+   },
+   "marketplace": {
+    "quissly": 67.13,
+    "doofinder": 55.88,
+    "clerk": 37.9,
+    "luigisbox": 41.7,
+    "algolia": 32.16
+   },
+   "pharmacy": {
+    "quissly": 66.75,
+    "doofinder": 39.12,
+    "clerk": 42.92,
+    "luigisbox": 42.34,
+    "algolia": 36.74
+   }
+  }
+ },
+ "heat_sector_order": [
+  "auto",
+  "cosmetics",
+  "furniture",
+  "electronics",
+  "fast_fashion",
+  "pharmacy",
+  "marketplace"
+ ],
+ "audit_classes": {
+  "partial": 35,
+  "catalog-gap": 5,
+  "engines-missed": 3,
+  "inconclusive": 7
+ }
+}

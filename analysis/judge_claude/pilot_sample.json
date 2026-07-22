@@ -1,0 +1,69 @@
+{
+ "seed": 42,
+ "rule": "Deterministic 9-query pilot: 3 per tier, >=5 sectors, exactly one\npharmacy query (text-only; dead image URLs), and >=2 image-heavy\nqueries with large pooled batches. Image counts come from the\njudge-stability raw cache (products minus unresolved URLs). Selection\nrule (reproducible, seed only breaks residual ties):\n  - image-heavy slots: the two non-pharmacy queries with the highest\n    resolvable-image count, in distinct sectors and distinct tiers.\n  - pharmacy slot: the pharmacy query with the largest batch.\n  - remaining slots: fill 3-per-tier, maximizing sector diversity,\n    preferring median batch sizes (rank by |size - median|).",
+ "sample": [
+  {
+   "query_id": "q_0026",
+   "sector": "fast_fashion",
+   "tier": "simple",
+   "n_products": 51,
+   "n_resolvable_images": 50
+  },
+  {
+   "query_id": "q_1046",
+   "sector": "cosmetics",
+   "tier": "complex",
+   "n_products": 52,
+   "n_resolvable_images": 52
+  },
+  {
+   "query_id": "q_0589",
+   "sector": "electronics",
+   "tier": "complex",
+   "n_products": 51,
+   "n_resolvable_images": 51
+  },
+  {
+   "query_id": "q_0234",
+   "sector": "furniture",
+   "tier": "simple",
+   "n_products": 51,
+   "n_resolvable_images": 51
+  },
+  {
+   "query_id": "q_0628",
+   "sector": "electronics",
+   "tier": "complex",
+   "n_products": 51,
+   "n_resolvable_images": 51
+  },
+  {
+   "query_id": "q_1199",
+   "sector": "pharmacy",
+   "tier": "medium",
+   "n_products": 97,
+   "n_resolvable_images": 0
+  },
+  {
+   "query_id": "q_0561",
+   "sector": "electronics",
+   "tier": "medium",
+   "n_products": 51,
+   "n_resolvable_images": 51
+  },
+  {
+   "query_id": "q_0687",
+   "sector": "marketplace",
+   "tier": "simple",
+   "n_products": 96,
+   "n_resolvable_images": 96
+  },
+  {
+   "query_id": "q_1418",
+   "sector": "auto",
+   "tier": "medium",
+   "n_products": 87,
+   "n_resolvable_images": 87
+  }
+ ]
+}

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="468pt" height="345.6pt" viewBox="0 0 468 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-18T22:40:04.636926</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 468 345.6 
+L 468 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 58.5 307.584 
+L 234.567961 307.584 
+L 234.567961 62.208 
+L 58.5 62.208 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p30be6ccae1)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAPUAAAFVCAYAAAA32qk/AAAEiklEQVR4nO3VS24UQRBAweyZRmBA8pb7X4ErsfAOIfEz9kwjxAb2SEM9RZwgq7te5fbh4f0xizsd11nd/Y9Ps7rCf7g8fJzVnW49APBviRpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQsz+eX87q3j59ntV93V/P6p5P+6zu/t02q7OpIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ8z+fNpndV/2N7O6u8u3Wd3d8/pnOGab1dnUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIWZ/Or2Y1TnD/+H7+dWs7uXlcVZnU0OMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooaYfQK2OW49AjNz2c7Lf4ctcJdsaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFmv/UA/HY9rf++ni+XWd3puM7q1r9JwF9EDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcTsxxbo+rjO8o5bD8Avl+08qwsUDfxJ1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUcO0/ATsiC4v0l+aQAAAAABJRU5ErkJggg==" id="image7ab35bcf9f" transform="scale(1 -1) translate(0 -245.52)" x="58.32" y="-61.92" width="176.4" height="245.52"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(53.086719 331.363029) rotate(-32)">Quissly</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(80.640317 336.149524) rotate(-32)">Doofinder</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(122.515327 331.987009) rotate(-32)">Clerk.io</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(147.173901 338.582516) rotate(-32)">Luigi's Box</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(195.710329 330.257485) rotate(-32)">Algolia</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="84.018857" transform="rotate(-0 55 84.018857)">Auto parts</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="119.072571" transform="rotate(-0 55 119.072571)">Cosmetics</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="154.126286" transform="rotate(-0 55 154.126286)">Furniture</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="189.18" transform="rotate(-0 55 189.18)">Electronics</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="224.233714" transform="rotate(-0 55 224.233714)">Fast fashion</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="259.287429" transform="rotate(-0 55 259.287429)">Pharmacy</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_12"/>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'Helvetica Neue'; text-anchor: end; fill: #141414" x="55" y="294.341143" transform="rotate(-0 55 294.341143)">Marketplace</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="82.690857" transform="rotate(-0 76.106796 82.690857)">0.0</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="82.690857" transform="rotate(-0 111.320388 82.690857)">2.2</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="82.690857" transform="rotate(-0 146.533981 82.690857)">6.7</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="82.690857" transform="rotate(-0 181.747573 82.690857)">12.8</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="82.690857" transform="rotate(-0 216.961165 82.690857)">26.7</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="117.744571" transform="rotate(-0 76.106796 117.744571)">1.7</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="117.744571" transform="rotate(-0 111.320388 117.744571)">2.8</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="117.744571" transform="rotate(-0 146.533981 117.744571)">5.6</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="117.744571" transform="rotate(-0 181.747573 117.744571)">12.8</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="117.744571" transform="rotate(-0 216.961165 117.744571)">30.6</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="152.798286" transform="rotate(-0 76.106796 152.798286)">1.7</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="152.798286" transform="rotate(-0 111.320388 152.798286)">2.8</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="152.798286" transform="rotate(-0 146.533981 152.798286)">9.5</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="152.798286" transform="rotate(-0 181.747573 152.798286)">12.8</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="152.798286" transform="rotate(-0 216.961165 152.798286)">27.9</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="187.852" transform="rotate(-0 76.106796 187.852)">2.2</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="187.852" transform="rotate(-0 111.320388 187.852)">2.2</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="187.852" transform="rotate(-0 146.533981 187.852)">9.4</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="187.852" transform="rotate(-0 181.747573 187.852)">16.7</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="187.852" transform="rotate(-0 216.961165 187.852)">26.1</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="222.905714" transform="rotate(-0 76.106796 222.905714)">8.3</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="222.905714" transform="rotate(-0 111.320388 222.905714)">16.1</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="222.905714" transform="rotate(-0 146.533981 222.905714)">27.8</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="222.905714" transform="rotate(-0 181.747573 222.905714)">40.0</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="222.905714" transform="rotate(-0 216.961165 222.905714)">47.2</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="257.959429" transform="rotate(-0 76.106796 257.959429)">13.9</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="257.959429" transform="rotate(-0 111.320388 257.959429)">30.6</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="257.959429" transform="rotate(-0 146.533981 257.959429)">32.8</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="257.959429" transform="rotate(-0 181.747573 257.959429)">27.2</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="257.959429" transform="rotate(-0 216.961165 257.959429)">48.3</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="76.106796" y="293.013143" transform="rotate(-0 76.106796 293.013143)">23.9</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="111.320388" y="293.013143" transform="rotate(-0 111.320388 293.013143)">26.1</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="146.533981" y="293.013143" transform="rotate(-0 146.533981 293.013143)">46.7</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="181.747573" y="293.013143" transform="rotate(-0 181.747573 293.013143)">48.9</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="216.961165" y="293.013143" transform="rotate(-0 216.961165 293.013143)">58.3</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.5px; font-family: 'Helvetica Neue'; text-anchor: start; fill: #555555" x="58.5" y="57.30048" transform="rotate(-0 58.5 57.30048)">lower is better</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(58.5 46.95675)">Effective zero-result rate</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(58.5 59.77725)"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 245.132039 307.584 
+L 421.2 307.584 
+L 421.2 62.208 
+L 245.132039 62.208 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p459c580f8b)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAPUAAAFVCAYAAAA32qk/AAAEpElEQVR4nO3WS44cZRBG0Si6Gtm0H4IJTHgslQFLZB2Ae9B2VbUr2QQSiqtzVvBLGVdfnn7/489jlvvpxx9mu99+fT/bXa/rT2k+fnyY7b75vx8A/LdEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaog5n06n2e6Xn9/Pdl8ux2y3/5JmLpf7bGepIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ8z5er3Ndv98+jrbvX1zmu3ux6x3u+3/DpYaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xJyfn19mu9fXr7Pd5y8Ps939fsx2r/tPyVJDjd9viBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIeZ83I/Z7tPzy2z37unNbHe53ma77x+/m+0sNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BBzvt1eZ7u//3qe9Y5jtnv5fJntvn18nO0sNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaog5349jtvvw4WnWO51mu3dPb2e78/lhtrPUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoIUbUECNqiBE1xIgaYkQNMaKGGFFDjKghRtQQI2qIETXEiBpiRA0xooYYUUOMqCFG1BAjaogRNcSIGmJEDTGihhhRQ4yoYVr+BeUqPOkhN9IHAAAAAElFTkSuQmCC" id="imagec654c12d95" transform="scale(1 -1) translate(0 -245.52)" x="244.8" y="-61.92" width="176.4" height="245.52"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_13"/>
+     <g id="text_50">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(239.718758 331.363029) rotate(-32)">Quissly</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_14"/>
+     <g id="text_51">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(267.272356 336.149524) rotate(-32)">Doofinder</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15"/>
+     <g id="text_52">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(309.147366 331.987009) rotate(-32)">Clerk.io</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_16"/>
+     <g id="text_53">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(333.80594 338.582516) rotate(-32)">Luigi's Box</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_17"/>
+     <g id="text_54">
+      <text style="font-size: 8px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(382.342367 330.257485) rotate(-32)">Algolia</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="text_55">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #ffffff" x="262.738835" y="82.690857" transform="rotate(-0 262.738835 82.690857)">80.1</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="82.690857" transform="rotate(-0 297.952427 82.690857)">59.5</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="82.690857" transform="rotate(-0 333.166019 82.690857)">58.1</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="82.690857" transform="rotate(-0 368.379612 82.690857)">57.3</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="82.690857" transform="rotate(-0 403.593204 82.690857)">51.1</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #ffffff" x="262.738835" y="117.744571" transform="rotate(-0 262.738835 117.744571)">79.1</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="117.744571" transform="rotate(-0 297.952427 117.744571)">66.2</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="117.744571" transform="rotate(-0 333.166019 117.744571)">58.3</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="117.744571" transform="rotate(-0 368.379612 117.744571)">62.7</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="117.744571" transform="rotate(-0 403.593204 117.744571)">53.1</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #ffffff" x="262.738835" y="152.798286" transform="rotate(-0 262.738835 152.798286)">76.9</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="152.798286" transform="rotate(-0 297.952427 152.798286)">57.9</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="152.798286" transform="rotate(-0 333.166019 152.798286)">52.7</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="152.798286" transform="rotate(-0 368.379612 152.798286)">55.5</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="152.798286" transform="rotate(-0 403.593204 152.798286)">47.1</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #ffffff" x="262.738835" y="187.852" transform="rotate(-0 262.738835 187.852)">76.0</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="187.852" transform="rotate(-0 297.952427 187.852)">51.4</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="187.852" transform="rotate(-0 333.166019 187.852)">49.2</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="187.852" transform="rotate(-0 368.379612 187.852)">50.1</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="187.852" transform="rotate(-0 403.593204 187.852)">46.5</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #ffffff" x="262.738835" y="222.905714" transform="rotate(-0 262.738835 222.905714)">69.3</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="222.905714" transform="rotate(-0 297.952427 222.905714)">49.2</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="222.905714" transform="rotate(-0 333.166019 222.905714)">43.7</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="222.905714" transform="rotate(-0 368.379612 222.905714)">44.4</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="222.905714" transform="rotate(-0 403.593204 222.905714)">39.9</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="262.738835" y="257.959429" transform="rotate(-0 262.738835 257.959429)">66.8</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="257.959429" transform="rotate(-0 297.952427 257.959429)">39.1</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="257.959429" transform="rotate(-0 333.166019 257.959429)">42.9</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="257.959429" transform="rotate(-0 368.379612 257.959429)">42.3</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="257.959429" transform="rotate(-0 403.593204 257.959429)">36.7</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="262.738835" y="293.013143" transform="rotate(-0 262.738835 293.013143)">67.1</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="297.952427" y="293.013143" transform="rotate(-0 297.952427 293.013143)">55.9</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="333.166019" y="293.013143" transform="rotate(-0 333.166019 293.013143)">37.9</text>
+   </g>
+   <g id="text_88">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="368.379612" y="293.013143" transform="rotate(-0 368.379612 293.013143)">41.7</text>
+   </g>
+   <g id="text_89">
+    <text style="font-size: 8px; font-family: 'Helvetica Neue'; text-anchor: middle; fill: #141414" x="403.593204" y="293.013143" transform="rotate(-0 403.593204 293.013143)">32.2</text>
+   </g>
+   <g id="text_90">
+    <text style="font-size: 8.5px; font-family: 'Helvetica Neue'; text-anchor: start; fill: #555555" x="245.132039" y="57.30048" transform="rotate(-0 245.132039 57.30048)">higher is better</text>
+   </g>
+   <g id="text_91">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(245.132039 46.95675)">Pooled-ideal nDCG@10</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Helvetica Neue'; fill: #141414" transform="translate(245.132039 59.77725)"/>
+   </g>
+  </g>
+  <g id="text_92">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'Helvetica Neue'; text-anchor: start; fill: #141414" x="9.36" y="15.156" transform="rotate(-0 9.36 15.156)">Sector by sector: failure rate and ranking quality</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p30be6ccae1">
+   <rect x="58.5" y="62.208" width="176.067961" height="245.376"/>
+  </clipPath>
+  <clipPath id="p459c580f8b">
+   <rect x="245.132039" y="62.208" width="176.067961" height="245.376"/>
+  </clipPath>
+ </defs>
+</svg>

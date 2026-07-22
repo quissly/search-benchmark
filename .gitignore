@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+
+# Regenerated comparison outputs
+comparison_final_results/
+
+# Build output
+dist/
+

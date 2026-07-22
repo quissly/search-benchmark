@@ -1,0 +1,1262 @@
+[
+  {
+    "query_id": "q_1386",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "gaskets",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1387",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "wheel bearing",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1367",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "control arm",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1424",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "remanufactured starter motor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1462",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "heavy duty ball joints",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1401",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "filters",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1495",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "what causes a strong smell of gasoline inside the car cabin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1404",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "suspension",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1485",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "what part do I need to fix my car's AC that is blowing warm air",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1506",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "best complete set of all-season tires for a sedan under $500",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1452",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "16-inch steel rims",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1514",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "performance muffler that provides a deep tone for under $100",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1440",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "AGM deep cycle battery",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1513",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "aftermarket catalytic converter for a Ford Escape under $350",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1475",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "DOT 5 silicone fluid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1391",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "condenser",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1382",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "motor oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1489",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "how to stop my brakes from making a loud grinding noise",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1454",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "full synthetic gear oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1380",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "brake fluid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1464",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "aftermarket oxygen sensor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1526",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "fog light bulbs that offer maximum visibility in dense fog",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1500",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "aftermarket stereo head unit that works with my car's factory steering wheel controls",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1465",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "universal joint cross reference",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1479",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "leather shift knob",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1366",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "struts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1446",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "carbon fiber spoiler",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1499",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "what motor oil is compatible with a freshly rebuilt performance engine",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1396",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "clutch kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1372",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "catalytic converter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1515",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "replacement fuel pump for a Chevrolet Silverado under $150",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1455",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "remanufactured AC compressor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1390",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "AC compressor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1432",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "24-inch wiper blades",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1436",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "high-flow catalytic converter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1371",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "muffler",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1459",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "new timing belt kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1521",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "rust-resistant exhaust components for vehicles in regions with salted roads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1354",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "wiper blades",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1410",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "lug nuts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1445",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "washable engine air filter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1434",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "digital tire pressure gauge",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1427",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "adjustable coilover suspension",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1350",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "spark plugs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1397",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "flywheel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1490",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "solution for a spongy brake pedal even after bleeding the lines",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1487",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "replacement parts for a car that hesitates when accelerating from a stop",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1460",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "18 inch all-season tires",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1504",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "what size tires should I get to go with my 2-inch suspension lift kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1394",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "brake drum",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1447",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "Honda Civic seat covers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1473",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "passenger side tail light",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1423",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "heavy-duty truck shocks",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1523",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "tires with a high treadwear rating for long-distance highway commuting",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1379",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "calipers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1466",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "forged aluminum pistons",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1409",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "side mirror",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1508",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "front and rear brake pad and rotor kit for a pickup truck under $300",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1351",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "oil filter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1414",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "heater core",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1518",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "car battery specifically designed for reliable starts in extreme cold weather",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1405",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "steering",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1355",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "battery",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1528",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "CV axles with durable boots for lifted trucks with extreme suspension angles",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1501",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "shock absorbers that are specifically designed to pair with lowering springs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1398",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "EGR valve",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1441",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "new alternator for Honda",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1420",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "synthetic 5W-30 oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1463",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "red silicone vacuum hose",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1472",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "100 amp car alternator",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1469",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "K&N air filter cleaner",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1419",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "12v car battery",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1470",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "drilled and slotted rotors",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1389",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "power steering",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1474",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "universal roof rack",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1359",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "brake rotors",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1480",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "stainless steel exhaust system",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1484",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "universal mud flaps",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1448",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "heavy-duty serpentine belt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1395",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "master cylinder",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1498",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "performance air filter to go with a recently installed cold air intake",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1503",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "spark plugs and ignition coils that work well together for a Ford F-150",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1458",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "DOT 4 brake fluid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1428",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "slotted performance rotors",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1444",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "four-piston brake caliper",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1352",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "air filter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1369",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "tie rod",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1392",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "engine mount",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1491",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "what part is broken if my car overheats in slow traffic",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1408",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "door handle",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1519",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "brake pads formulated for frequent stop-and-go city driving",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1357",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "starter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1376",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "serpentine belt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1509",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "durable replacement alternator for a Honda Civic under $200",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1435",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "Ford F150 grille",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1402",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "brakes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1516",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "best windshield wiper blades for heavy rain and sleet conditions",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1406",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "lighting",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1377",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "cabin filter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1467",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "BMW 3 series radiator",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1529",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "roof rack cross bars for carrying a kayak on vacation trips",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1412",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "relays",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1418",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "ceramic brake pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1525",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "all-weather floor liners to protect carpets from snow and mud",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1483",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "Jeep Wrangler fender flares",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1482",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "new transmission solenoid kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1429",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "new OEM fuel pump",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1384",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "fuses",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1430",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "silicone radiator hoses",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1365",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "shocks",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1413",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "blower motor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1524",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "high-temperature brake fluid for performance track day use",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1399",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "hoses",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1425",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "performance cold air intake",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1493",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "replacement starter for a car that just clicks when I turn the key",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1507",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "reliable replacement car battery with a good warranty under $175",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1492",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "how to fix a rattling noise coming from my exhaust system",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1403",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "exhaust",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1417",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "oil pan",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1370",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "axle",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1358",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "radiator",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1388",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "hub assembly",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1422",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "17-inch aluminum wheels",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1383",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "transmission fluid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1374",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "ignition coil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1461",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "dual exhaust muffler",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1364",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "thermostat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1431",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "iridium spark plugs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1488",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "what to do when my check engine light is on for a P0420 catalyst code",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1443",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "steel braided brake lines",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1375",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "timing belt",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1385",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "bulbs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1416",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "steering rack",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1368",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "ball joint",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1511",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "quality oxygen sensor for a Toyota Camry for under $60",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1453",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "Bosch platinum spark plugs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1496",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "upgraded brake rotors to match my high-performance ceramic pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1477",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "high-output ignition coil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1520",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "engine oil designed for high-mileage cars over 100,000 miles",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1468",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "high-torque starter motor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1478",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "adjustable fuel pressure regulator",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1442",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "polyurethane control arm bushings",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1439",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "H11 halogen fog lights",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1522",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "air filter for driving in very dusty desert environments",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1421",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "LED headlight bulbs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1433",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "used driver side mirror",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1494",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "parts needed to repair a power steering fluid leak",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1510",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "LED headlight conversion kit for improved night visibility under $80",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1360",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "headlights",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1361",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "tail lights",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1449",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "OEM Toyota oil filter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1415",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "sway bar",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1457",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "front ceramic brake pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1451",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "locking gas cap",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1411",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "gas cap",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1476",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "4-gauge battery cables",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1512",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "a complete strut and spring assembly for under $450 for all four corners",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1517",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "heavy-duty shock absorbers for a truck used for off-roading and towing",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1481",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "performance ECU chip",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1502",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "performance camshaft to go with upgraded valve springs and retainers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1450",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "universal catalytic converter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1426",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "universal rubber floor mats",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1497",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "high-flow fuel injectors to support a new aftermarket turbocharger",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1527",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "high-performance radiator for a sports car used in summer racing events",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1378",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "fuel filter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1456",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "high performance water pump",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1373",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "oxygen sensor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1400",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "belts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1362",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "fuel pump",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1437",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "leather steering wheel cover",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1393",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "brake shoes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1407",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "CV axle",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1381",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "coolant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1505",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "aftermarket exhaust manifold to complement a stage 1 ECU tune",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1438",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "chrome exhaust tip",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1353",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "brake pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1363",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "water pump",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1486",
+    "category": "auto_parts",
+    "complexity": "complex",
+    "text_query": "how to fix a steering wheel that shakes violently at highway speeds",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1471",
+    "category": "auto_parts",
+    "complexity": "medium",
+    "text_query": "new front wheel bearing",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1356",
+    "category": "auto_parts",
+    "complexity": "simple",
+    "text_query": "alternator",
+    "image_url": null
+  }
+]

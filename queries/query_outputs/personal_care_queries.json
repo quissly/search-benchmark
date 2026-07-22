@@ -1,0 +1,1262 @@
+[
+  {
+    "query_id": "q_1029",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "long-lasting floral perfume",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0995",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "volumizing mousse for fine hair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1018",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "sensitive teeth enamel repair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0932",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "dry shampoo",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1024",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "sandalwood beard oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0930",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair mousse",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1068",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "a complete skincare travel kit for a two-week trip with long-haul flights",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0961",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "pumice stone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0908",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "antiperspirant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1042",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "exfoliating body lotion for keratosis pilaris on the back of my arms",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1007",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "unscented body lotion for eczema",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0900",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "shampoo",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0909",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "toothpaste",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0999",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "temporary root touch-up",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1004",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "aluminum-free deodorant for men",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1044",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "vitamin C serum to fade post-inflammatory hyperpigmentation on dark skin tones",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1030",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "vanilla scented body mist",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0912",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "dental floss",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0944",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "bath salts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1076",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "makeup setting spray to keep makeup from melting during an all-day outdoor summer festival",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0901",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "conditioner",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0919",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "face mask",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0921",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "foot cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0906",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "sunscreen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1043",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "how to repair heat-damaged fine hair without making it greasy",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0964",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "wax strips",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0917",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "eye cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0965",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "epilator",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1026",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "disposable razors for women",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1050",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "what cleanser is best to use while on a prescription retinoid like tretinoin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1019",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "gentle whitening teeth strips",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0911",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "mouthwash",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1016",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "charcoal toothpaste for stains",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0951",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "cotton pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1074",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "skincare routine for a healthcare worker wearing a mask for 12-hour shifts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1062",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "large bottle of sulfate-free shampoo for oily, color-treated hair under $20",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1065",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "a rich, nourishing night cream for very dry, mature skin under $40",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0933",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1037",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "purple shampoo to reduce brassiness in blonde highlighted hair under $20",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0941",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "body scrub",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1052",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "shampoo and conditioner to extend the life of a professional keratin smoothing treatment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1014",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "shimmer body oil spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0923",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "shaving cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1038",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "effective skincare routine for treating hormonal acne along the jawline",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0955",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "beard balm",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0984",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "cooling gel eye patches",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0978",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "tinted moisturizer with SPF",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0931",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair dye",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0938",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "nail clippers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1079",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "how to create a shaving routine to prevent razor burn on my sensitive neck",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0916",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "serum",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1009",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "cooling aloe vera gel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1025",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "unscented beard balm",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1022",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "soothing aftershave balm",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0942",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "bubble bath",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0914",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "cleanser",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1071",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "hair styling cream to control frizz and flyaways during rainy, humid weather",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0920",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hand cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0913",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "face wash",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0937",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hand sanitizer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1001",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "semi-permanent red hair dye",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1023",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "men's electric foil shaver",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0928",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0924",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "aftershave",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1011",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "cracked heel repair balm",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1047",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "nail strengthener for brittle nails after removing gel polish",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1063",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "high-SPF mineral body sunscreen for eczema-prone skin under $25",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0997",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "purple shampoo for blondes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0963",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "teeth whitening",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0939",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "nail file",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0945",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "tampons",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1059",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "heat protectant spray designed to use with a flat iron on color-treated hair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0972",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "hyaluronic acid eye cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0971",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "retinol serum for beginners",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1049",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "toothpaste for sensitive teeth that also has effective whitening properties",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1057",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "eye makeup remover that is safe for waterproof mascara and eyelash extensions",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1003",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "exfoliating body wash scrub",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0957",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "face cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0994",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "strong hold hair gel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1054",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "which body wash should I use with an exfoliating body scrub to prevent ingrown hairs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1000",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "nourishing hair growth oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0993",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "heat protectant spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0987",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "ceramide barrier repair cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0903",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "body wash",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1034",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "cruelty-free makeup setting spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0904",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "lotion",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0981",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "peptide firming serum",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0958",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "body butter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1031",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "oil-free matte foundation",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0935",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "comb",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1058",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "a facial sunscreen that can be easily reapplied over a full face of makeup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1070",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "sophisticated, long-lasting perfume for a formal black-tie wedding",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0982",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "waterproof eye makeup remover",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0952",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "makeup remover",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1013",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "travel size body wash",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1055",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "moisturizer that won't pill when layered with niacinamide and azelaic acid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0926",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "cologne",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1010",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "lavender Epsom bath salts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1006",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "moisturizing bar soap",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1015",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "fluoride-free whitening toothpaste",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0918",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "lip balm",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1066",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "vegan and cruelty-free deep conditioning hair mask for curly hair under $15",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0967",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "wet wipes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1002",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "clarifying shampoo for buildup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0907",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "deodorant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0989",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "deep conditioner for damaged hair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1072",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "intensely soothing and cooling after-sun lotion for a painful sunburn",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0910",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "toothbrush",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1078",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "gentle baby shampoo and body wash for a newborn with sensitive skin and cradle cap",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0977",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "niacinamide serum for redness",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0976",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "vitamin C glow serum",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1056",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "what kind of aftershave balm is best to use after shaving with a straight razor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0991",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "dry shampoo for dark hair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0948",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "panty liners",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0974",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "clay mask for pores",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0960",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "loofah",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1028",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "pre-shave oil for men",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1046",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "hydrating lip balm with SPF 30+ to heal chronically chapped, peeling lips",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1021",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "sensitive skin shaving cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0980",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "anti-aging night cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0949",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "menstrual cup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0968",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "hydrating cleanser for dry skin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0927",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "body spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1064",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "complete beginner's skincare routine for oily skin with all products under $50",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0983",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "oil-absorbing face moisturizer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0922",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "razor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0929",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair gel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1005",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "shea butter hand cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0902",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "soap",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0998",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "co-wash for curly hair",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0988",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "sulfate-free shampoo for curls",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0943",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "bath bomb",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0990",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "leave-in conditioner spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1020",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "expanding dental floss tape",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0925",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "perfume",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0969",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "salicylic acid face wash",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1012",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "natural insect repellent spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1073",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "a bold red lipstick that will last through a multi-course dinner party",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1036",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "best non-comedogenic moisturizer for acne-prone combination skin in the winter",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0979",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "gentle cleanser for sensitive skin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1061",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "drugstore hydrating foundation for mature, dry skin under $15",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1077",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "daily grooming routine for a man working in a dry, air-conditioned corporate office",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0915",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "toner",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0940",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "tweezers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1033",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "matte finish red lipstick",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0996",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "argan oil hair serum",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0962",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "acne treatment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1035",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "how to fix dehydrated, sensitive skin with rosacea",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1067",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "lightweight, non-greasy moisturizer for my face to use in a hot and humid climate",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1060",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "effective anti-aging retinol serum for a beginner under $30",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1008",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "firming body cellulite cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0950",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "cotton swabs",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0973",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "mineral SPF 50 sunscreen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0966",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "baby powder",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0934",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair mask",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0936",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "hair brush",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1051",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "hydrating serum to layer underneath a high-potency vitamin C serum in the morning",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1048",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "beard oil to soften a coarse beard and prevent underlying skin dryness",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0959",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "shower gel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0992",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "anti-dandruff scalp treatment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1032",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "lengthening waterproof mascara",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1069",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "sweat-proof and transfer-proof foundation for an intense outdoor workout session",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0905",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "moisturizer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1041",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "skincare products to minimize the appearance of large pores and blackheads on the nose",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1053",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "face oil that wears well under a silicone-based full-coverage foundation",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0985",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "exfoliating facial scrub",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1075",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "clarifying shampoo to remove chlorine and salt water build-up after a beach vacation",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0986",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "fragrance-free body lotion",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0946",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1045",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "natural deodorant that actually works for stress-induced sweat",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1039",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "gentle eye cream that helps with genetic dark circles and milia",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1017",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "alcohol-free antiseptic mouthwash",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1040",
+    "category": "personal_care",
+    "complexity": "complex",
+    "text_query": "remedies for a flaky and itchy scalp without using harsh sulfates",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0954",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "beard oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0970",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "oil-free gel moisturizer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1027",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "ingrown hair treatment pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0975",
+    "category": "personal_care",
+    "complexity": "medium",
+    "text_query": "glycolic acid toner pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0947",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "sanitary pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0956",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "trimmer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_0953",
+    "category": "personal_care",
+    "complexity": "simple",
+    "text_query": "micellar water",
+    "image_url": null
+  }
+]

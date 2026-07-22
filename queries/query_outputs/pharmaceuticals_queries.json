@@ -1,0 +1,1262 @@
+[
+  {
+    "query_id": "q_1295",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "most effective over-the-counter treatment for recurring fungal nail infections",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1298",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "what to pack in a medical kit for a beach vacation with kids",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1152",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Prilosec",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1205",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "severe flu relief capsules",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1217",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "daily fiber supplement powder",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1141",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Claritin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1270",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "best value bulk bottle of ibuprofen for a family under $18",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1186",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Zoloft",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1138",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Loratadine",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1252",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "rapid release gel caps",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1216",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "fast-acting antacid tablets",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1175",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "nicotine gum",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1135",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "decongestant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1182",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "statins",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1176",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "first aid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1242",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "B12 sublingual tablets",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1139",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Cetirizine",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1172",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "eye drops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1260",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "medicine for a migraine that won't cause rebound headaches",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1289",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "a gentle laxative for occasional constipation that works overnight without cramping",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1278",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "effective athlete's foot spray for use in gym showers under $10",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1259",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "high potency fish oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1279",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "what to take for a tension headache caused by staring at a computer screen all day",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1150",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Tums",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1284",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "eye drops for severe digital eye strain that are safe for contact lens wearers",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1197",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "fast-acting headache relief",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1275",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "immune support supplement to take before traveling internationally",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1248",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "fast-dissolve sleep tablets",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1144",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Sudafed",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1167",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Neosporin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1244",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "motion sickness patches",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1297",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "best children's chewable multivitamin for a picky eater under $15",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1243",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "probiotic for women's health",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1288",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "ointment for reducing the appearance of a scar from a recent minor surgery",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1153",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Pepcid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1269",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "antacid that won't interfere with the absorption of my iron supplement",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1229",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "melatonin 10mg tablets",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1286",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "low-cost lubricating eye drops for chronic dry eye under $12",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1251",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "kids' chewable multivitamins",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1157",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "sleep aid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1193",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "children's liquid ibuprofen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1280",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "topical analgesic cream for arthritis pain in my hands that isn't greasy",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1211",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "vitamin D3 5000 IU",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1285",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "is it safe to take an antihistamine with my daily antidepressant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1296",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "a gentle skin moisturizer to use with a prescription acne treatment that dries my face",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1228",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "wart remover freeze kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1276",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "sleep aid that helps me stay asleep all night but won't cause morning grogginess",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1287",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "long-lasting nasal decongestant for a stuffy nose during a long work meeting",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1254",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "children's fever reducer",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1220",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "triple antibiotic ointment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1130",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Tylenol",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1302",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "allergy medicine for severe seasonal symptoms when I have to give a presentation",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1183",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Lisinopril",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1159",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Vitamin D",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1156",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "melatonin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1204",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "nighttime cold and flu",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1240",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "calcium with vitamin D",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1272",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "nasal spray for sinus congestion that won't make me feel jittery",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1155",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "gas relief",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1237",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "coated aspirin 81mg",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1194",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "low dose daily aspirin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1184",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Metformin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1290",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "best deal on a 90-day supply of high-potency omega-3 fish oil capsules under $35",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1206",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "sore throat numbing spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1168",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "sunscreen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1195",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "extra strength acetaminophen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1212",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "gummy melatonin for adults",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1301",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "a bottle of children's liquid fever reducer for under $8",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1293",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "what can I use to soothe a painful canker sore on the inside of my lip",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1300",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "herbal supplement to help with focus that won't interact with my anxiety medication",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1173",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "nasal spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1239",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "multi-symptom flu powder",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1179",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "penicillin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1263",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "non-drowsy motion sickness patch for a 12-hour flight",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1233",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "glucosamine chondroitin complex",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1294",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "non-caffeinated headache relief for a migraine I get in the evenings",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1134",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "antihistamine",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1264",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "fast-acting relief for severe acid reflux that I can buy without a prescription",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1241",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "iron supplement for women",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1299",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "pain reliever for menstrual cramps that doesn't contain aspirin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1202",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "itchy eye relief drops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1128",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "naproxen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1213",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "kids' probiotic chewables",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1149",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Omeprazole",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1181",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "atorvastatin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1261",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "what cold medicine is safe to take with my high blood pressure medication",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1267",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "pain reliever for muscle soreness after an intense gym workout",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1236",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "nicotine replacement gum 2mg",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1151",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Pepto-Bismol",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1189",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "antidepressants",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1283",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "medication to prevent traveler's diarrhea for a trip to Central America",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1221",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "hydrocortisone cream 1%",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1218",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "gas relief softgels",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1178",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "amoxicillin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1303",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "treatment for painful gas and bloating after eating beans and cruciferous vegetables",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1255",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "maximum strength muscle rub",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1146",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "laxative",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1208",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "women's daily multivitamin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1230",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "natural herbal sleep aid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1281",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "a calcium supplement that is easy to absorb for someone over 60",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1170",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "antifungal cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1209",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "men's 50+ multivitamin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1277",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "sugar-free cough drops suitable for a person with diabetes",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1185",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "insulin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1127",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "aspirin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1258",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "sugar-free fiber gummies",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1222",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "burn relief cooling gel",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1266",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "affordable generic version of Prilosec for daily heartburn under $15",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1201",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "nasal allergy relief spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1187",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "sertraline",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1200",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "24-hour allergy relief",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1198",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "non-drowsy allergy pills",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1271",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "digestive enzyme to take before eating a large, fatty meal at a restaurant",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1292",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "medication to stop acute diarrhea without causing constipation afterwards",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1234",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "yeast infection 3-day treatment",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1250",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "joint support turmeric supplement",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1126",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "acetaminophen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1191",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "birth control",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1225",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "acne treatment spot cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1210",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "prenatal vitamins with DHA",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1273",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "what kind of painkiller can I take if I have a sensitive stomach and GERD",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1291",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "first-aid antiseptic spray for a hiking and camping trip",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1161",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "fish oil",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1148",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "anti-diarrhea",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1162",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "calcium",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1177",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "antibiotics",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1232",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "ear wax removal kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1143",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Allegra",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1253",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "once-daily heartburn pill",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1215",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "gentle overnight laxative",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1207",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "chewable vitamin C 500mg",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1158",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Vitamin C",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1137",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "cough syrup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1171",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "eczema cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1249",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "contact lens rewetting drops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1165",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "prenatal vitamins",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1257",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "diaper rash zinc oxide",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1245",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "anti-diarrhea liquid medicine",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1129",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "pain relief",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1147",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "probiotics",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1164",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "B12 vitamin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1203",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "sugar-free cough drops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1224",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "flexible fabric bandages",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1268",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "children's cough syrup for a dry, hacking cough that's safe for a 4-year-old",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1304",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "best vitamin D drops to go with a calcium chew for better bone density support",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1247",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "anti-itch hydrocortisone spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1274",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "cheap but effective hydrocortisone cream for insect bites under $7",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1142",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Benadryl",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1231",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "dry eye relief drops",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1265",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "a probiotic supplement to restore gut health after a course of antibiotics",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1190",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Viagra",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1169",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "acne cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1166",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "hydrocortisone",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1145",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "antacid",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1192",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "flu shot",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1136",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "cold medicine",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1226",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "eczema relief body lotion",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1180",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Lipitor",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1214",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "vegan omega-3 supplement",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1199",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "children's allergy syrup",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1262",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "best over-the-counter allergy pills for a month's supply under $20",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1227",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "athlete's foot antifungal spray",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1246",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "sterile gauze pads",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1160",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "multivitamin",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1163",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "iron supplement",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1196",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "arthritis pain relief cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1133",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "allergy pills",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1256",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "saline nasal rinse kit",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1125",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "ibuprofen",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1140",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Zyrtec",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1154",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Imodium",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1219",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "waterproof adhesive bandages",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1235",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "hemorrhoid relief cream",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1132",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Aleve",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1282",
+    "category": "pharmaceuticals",
+    "complexity": "complex",
+    "text_query": "a month's supply of a daily fiber supplement that dissolves easily for under $25",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1188",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Prozac",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1223",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "liquid bandage for cuts",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1174",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "motion sickness",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1238",
+    "category": "pharmaceuticals",
+    "complexity": "medium",
+    "text_query": "indoor outdoor allergy pills",
+    "image_url": null
+  },
+  {
+    "query_id": "q_1131",
+    "category": "pharmaceuticals",
+    "complexity": "simple",
+    "text_query": "Advil",
+    "image_url": null
+  }
+]

@@ -1,0 +1,8 @@
+# Data acquisition + normalization for the e-commerce search benchmark.
+# Tested on Python 3.14.
+
+pandas>=2.2          # dataframes + parquet IO
+pyarrow>=16          # parquet engine
+datasets>=3.0        # Hugging Face loader for Amazon Reviews 2023 (public, no token)
+kaggle>=1.6          # Kaggle CLI/API for Sephora, medicines, Myntra, luxury, Flipkart
+requests>=2.31       # plain HTTP download for WANDS (GitHub, no creds)

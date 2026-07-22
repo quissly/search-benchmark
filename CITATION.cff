@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "The Quissly E-Commerce Search Benchmark"
+version: v1.0
+date-released: 2026-07-22
+doi: 10.5281/zenodo.21410544
+url: "https://quissly.com/benchmarks/search"
+repository-code: "https://github.com/quissly/search-benchmark"
+authors:
+  - family-names: Chikhladze
+    given-names: K.
+  - family-names: Lezhava
+    given-names: T.
+  - name: "The Quissly Team"
+preferred-citation:
+  type: report
+  title: "The Quissly E-Commerce Search Benchmark"
+  authors:
+    - family-names: Chikhladze
+      given-names: K.
+    - family-names: Lezhava
+      given-names: T.
+    - name: "The Quissly Team"
+  year: 2026
+  month: 7
+  doi: 10.5281/zenodo.21410544

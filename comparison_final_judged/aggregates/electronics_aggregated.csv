@@ -1,0 +1,16 @@
+Engine Name,Category,Complexity,Zero-Result Rate (%),Precision@10 (%),Precision@20 (%),Query Count
+algolia,electronics,complex,95.56,3.04,3.04,45
+algolia,electronics,medium,1.49,56.04,47.15,67
+algolia,electronics,simple,0.0,49.54,48.72,68
+clerk,electronics,complex,0.0,11.7,10.59,45
+clerk,electronics,medium,0.0,52.0,46.05,67
+clerk,electronics,simple,0.0,52.81,49.79,68
+doofinder,electronics,complex,0.0,15.78,14.07,45
+doofinder,electronics,medium,0.0,57.82,52.67,67
+doofinder,electronics,simple,0.0,50.61,49.55,68
+luigisbox,electronics,complex,37.78,14.15,13.16,45
+luigisbox,electronics,medium,0.0,56.81,48.96,67
+luigisbox,electronics,simple,0.0,50.37,48.98,68
+quissly,electronics,complex,4.44,40.46,36.86,45
+quissly,electronics,medium,0.0,58.56,49.27,67
+quissly,electronics,simple,0.0,79.5,77.2,68

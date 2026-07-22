@@ -1,0 +1,16 @@
+Engine Name,Category,Complexity,Zero-Result Rate (%),Precision@10 (%),Precision@20 (%),Query Count
+algolia,furniture,complex,91.11,4.8,4.91,45
+algolia,furniture,medium,5.97,51.86,46.43,67
+algolia,furniture,simple,0.0,62.54,59.7,67
+clerk,furniture,complex,0.0,20.43,19.44,45
+clerk,furniture,medium,0.0,54.91,47.91,67
+clerk,furniture,simple,0.0,58.52,54.87,67
+doofinder,furniture,complex,0.0,13.5,9.97,45
+doofinder,furniture,medium,0.0,56.2,50.63,67
+doofinder,furniture,simple,0.0,70.36,66.95,67
+luigisbox,furniture,complex,40.0,20.89,20.26,45
+luigisbox,furniture,medium,0.0,59.72,54.43,67
+luigisbox,furniture,simple,0.0,64.97,62.85,67
+quissly,furniture,complex,0.0,36.86,31.93,45
+quissly,furniture,medium,0.0,53.39,46.01,67
+quissly,furniture,simple,0.0,86.06,81.89,67

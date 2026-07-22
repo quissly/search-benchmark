@@ -1,0 +1,506 @@
+{
+  "auto": {
+    "n_queries": 180,
+    "n_recall_pool": 174,
+    "n_ndcg_included": 180,
+    "engines": {
+      "quissly": {
+        "ezr_count": 0,
+        "ezr_pct": 0.0,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 9.83,
+        "junk20_pct": 11.5,
+        "junk_n": 180,
+        "recall10_pct": 37.15,
+        "recall20_pct": 59.62,
+        "ndcg10": 80.06,
+        "ndcg20": 82.74
+      },
+      "doofinder": {
+        "ezr_count": 4,
+        "ezr_pct": 2.22,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 18.69,
+        "junk20_pct": 20.72,
+        "junk_n": 180,
+        "recall10_pct": 26.37,
+        "recall20_pct": 40.85,
+        "ndcg10": 59.54,
+        "ndcg20": 60.91
+      },
+      "luigisbox": {
+        "ezr_count": 23,
+        "ezr_pct": 12.78,
+        "answered": 167,
+        "coverage_pct": 92.78,
+        "junk10_pct": 13.21,
+        "junk20_pct": 15.75,
+        "junk_n": 167,
+        "recall10_pct": 23.64,
+        "recall20_pct": 35.41,
+        "ndcg10": 57.3,
+        "ndcg20": 56.75
+      },
+      "clerk": {
+        "ezr_count": 12,
+        "ezr_pct": 6.67,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 22.11,
+        "junk20_pct": 23.68,
+        "junk_n": 180,
+        "recall10_pct": 25.1,
+        "recall20_pct": 38.89,
+        "ndcg10": 58.11,
+        "ndcg20": 59.08
+      },
+      "algolia": {
+        "ezr_count": 48,
+        "ezr_pct": 26.67,
+        "answered": 134,
+        "coverage_pct": 74.44,
+        "junk10_pct": 9.67,
+        "junk20_pct": 11.58,
+        "junk_n": 134,
+        "recall10_pct": 21.79,
+        "recall20_pct": 33.21,
+        "ndcg10": 51.06,
+        "ndcg20": 51.36
+      }
+    }
+  },
+  "cosmetics": {
+    "n_queries": 180,
+    "n_recall_pool": 169,
+    "n_ndcg_included": 177,
+    "engines": {
+      "quissly": {
+        "ezr_count": 3,
+        "ezr_pct": 1.67,
+        "answered": 179,
+        "coverage_pct": 99.44,
+        "junk10_pct": 9.98,
+        "junk20_pct": 12.55,
+        "junk_n": 179,
+        "recall10_pct": 36.5,
+        "recall20_pct": 61.23,
+        "ndcg10": 79.07,
+        "ndcg20": 81.38
+      },
+      "doofinder": {
+        "ezr_count": 5,
+        "ezr_pct": 2.78,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 18.39,
+        "junk20_pct": 22.4,
+        "junk_n": 180,
+        "recall10_pct": 27.91,
+        "recall20_pct": 43.26,
+        "ndcg10": 66.24,
+        "ndcg20": 64.74
+      },
+      "luigisbox": {
+        "ezr_count": 23,
+        "ezr_pct": 12.78,
+        "answered": 172,
+        "coverage_pct": 95.56,
+        "junk10_pct": 16.86,
+        "junk20_pct": 18.3,
+        "junk_n": 172,
+        "recall10_pct": 26.64,
+        "recall20_pct": 41.83,
+        "ndcg10": 62.74,
+        "ndcg20": 61.75
+      },
+      "clerk": {
+        "ezr_count": 10,
+        "ezr_pct": 5.56,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 22.39,
+        "junk20_pct": 25.34,
+        "junk_n": 180,
+        "recall10_pct": 24.97,
+        "recall20_pct": 39.45,
+        "ndcg10": 58.26,
+        "ndcg20": 57.54
+      },
+      "algolia": {
+        "ezr_count": 55,
+        "ezr_pct": 30.56,
+        "answered": 129,
+        "coverage_pct": 71.67,
+        "junk10_pct": 10.63,
+        "junk20_pct": 13.59,
+        "junk_n": 129,
+        "recall10_pct": 21.26,
+        "recall20_pct": 33.75,
+        "ndcg10": 53.12,
+        "ndcg20": 51.96
+      }
+    }
+  },
+  "electronics": {
+    "n_queries": 180,
+    "n_recall_pool": 167,
+    "n_ndcg_included": 178,
+    "engines": {
+      "quissly": {
+        "ezr_count": 4,
+        "ezr_pct": 2.22,
+        "answered": 178,
+        "coverage_pct": 98.89,
+        "junk10_pct": 14.28,
+        "junk20_pct": 16.41,
+        "junk_n": 178,
+        "recall10_pct": 45.83,
+        "recall20_pct": 67.72,
+        "ndcg10": 76.0,
+        "ndcg20": 79.49
+      },
+      "doofinder": {
+        "ezr_count": 4,
+        "ezr_pct": 2.22,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 23.8,
+        "junk20_pct": 26.71,
+        "junk_n": 180,
+        "recall10_pct": 28.07,
+        "recall20_pct": 40.38,
+        "ndcg10": 51.37,
+        "ndcg20": 52.37
+      },
+      "luigisbox": {
+        "ezr_count": 30,
+        "ezr_pct": 16.67,
+        "answered": 163,
+        "coverage_pct": 90.56,
+        "junk10_pct": 21.0,
+        "junk20_pct": 23.3,
+        "junk_n": 163,
+        "recall10_pct": 27.2,
+        "recall20_pct": 37.98,
+        "ndcg10": 50.11,
+        "ndcg20": 50.23
+      },
+      "clerk": {
+        "ezr_count": 17,
+        "ezr_pct": 9.44,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 31.07,
+        "junk20_pct": 33.38,
+        "junk_n": 180,
+        "recall10_pct": 26.2,
+        "recall20_pct": 38.42,
+        "ndcg10": 49.17,
+        "ndcg20": 49.24
+      },
+      "algolia": {
+        "ezr_count": 47,
+        "ezr_pct": 26.11,
+        "answered": 136,
+        "coverage_pct": 75.56,
+        "junk10_pct": 15.24,
+        "junk20_pct": 18.54,
+        "junk_n": 136,
+        "recall10_pct": 25.65,
+        "recall20_pct": 35.1,
+        "ndcg10": 46.45,
+        "ndcg20": 46.0
+      }
+    }
+  },
+  "fast_fashion": {
+    "n_queries": 180,
+    "n_recall_pool": 145,
+    "n_ndcg_included": 174,
+    "engines": {
+      "quissly": {
+        "ezr_count": 15,
+        "ezr_pct": 8.33,
+        "answered": 169,
+        "coverage_pct": 93.89,
+        "junk10_pct": 17.1,
+        "junk20_pct": 18.28,
+        "junk_n": 169,
+        "recall10_pct": 38.18,
+        "recall20_pct": 61.36,
+        "ndcg10": 69.35,
+        "ndcg20": 74.17
+      },
+      "doofinder": {
+        "ezr_count": 29,
+        "ezr_pct": 16.11,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 40.94,
+        "junk20_pct": 44.57,
+        "junk_n": 180,
+        "recall10_pct": 20.3,
+        "recall20_pct": 32.78,
+        "ndcg10": 49.2,
+        "ndcg20": 49.56
+      },
+      "luigisbox": {
+        "ezr_count": 72,
+        "ezr_pct": 40.0,
+        "answered": 135,
+        "coverage_pct": 75.0,
+        "junk10_pct": 30.07,
+        "junk20_pct": 31.86,
+        "junk_n": 135,
+        "recall10_pct": 19.24,
+        "recall20_pct": 29.01,
+        "ndcg10": 44.4,
+        "ndcg20": 43.44
+      },
+      "clerk": {
+        "ezr_count": 50,
+        "ezr_pct": 27.78,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 47.76,
+        "junk20_pct": 49.38,
+        "junk_n": 180,
+        "recall10_pct": 18.26,
+        "recall20_pct": 27.94,
+        "ndcg10": 43.66,
+        "ndcg20": 43.0
+      },
+      "algolia": {
+        "ezr_count": 85,
+        "ezr_pct": 47.22,
+        "answered": 107,
+        "coverage_pct": 59.44,
+        "junk10_pct": 26.42,
+        "junk20_pct": 27.42,
+        "junk_n": 107,
+        "recall10_pct": 18.37,
+        "recall20_pct": 27.32,
+        "ndcg10": 39.87,
+        "ndcg20": 39.02
+      }
+    }
+  },
+  "furniture": {
+    "n_queries": 179,
+    "n_recall_pool": 162,
+    "n_ndcg_included": 177,
+    "engines": {
+      "quissly": {
+        "ezr_count": 3,
+        "ezr_pct": 1.68,
+        "answered": 179,
+        "coverage_pct": 100.0,
+        "junk10_pct": 11.34,
+        "junk20_pct": 13.61,
+        "junk_n": 179,
+        "recall10_pct": 47.19,
+        "recall20_pct": 72.22,
+        "ndcg10": 76.86,
+        "ndcg20": 81.2
+      },
+      "doofinder": {
+        "ezr_count": 5,
+        "ezr_pct": 2.79,
+        "answered": 179,
+        "coverage_pct": 100.0,
+        "junk10_pct": 18.88,
+        "junk20_pct": 21.96,
+        "junk_n": 179,
+        "recall10_pct": 33.06,
+        "recall20_pct": 49.43,
+        "ndcg10": 57.93,
+        "ndcg20": 58.22
+      },
+      "luigisbox": {
+        "ezr_count": 23,
+        "ezr_pct": 12.85,
+        "answered": 161,
+        "coverage_pct": 89.94,
+        "junk10_pct": 13.07,
+        "junk20_pct": 14.4,
+        "junk_n": 161,
+        "recall10_pct": 30.84,
+        "recall20_pct": 45.6,
+        "ndcg10": 55.47,
+        "ndcg20": 55.26
+      },
+      "clerk": {
+        "ezr_count": 17,
+        "ezr_pct": 9.5,
+        "answered": 179,
+        "coverage_pct": 100.0,
+        "junk10_pct": 26.13,
+        "junk20_pct": 28.67,
+        "junk_n": 179,
+        "recall10_pct": 33.57,
+        "recall20_pct": 47.72,
+        "ndcg10": 52.73,
+        "ndcg20": 52.95
+      },
+      "algolia": {
+        "ezr_count": 50,
+        "ezr_pct": 27.93,
+        "answered": 134,
+        "coverage_pct": 74.86,
+        "junk10_pct": 14.42,
+        "junk20_pct": 16.93,
+        "junk_n": 134,
+        "recall10_pct": 27.2,
+        "recall20_pct": 41.65,
+        "ndcg10": 47.06,
+        "ndcg20": 47.43
+      }
+    }
+  },
+  "marketplace": {
+    "n_queries": 180,
+    "n_recall_pool": 103,
+    "n_ndcg_included": 154,
+    "engines": {
+      "quissly": {
+        "ezr_count": 43,
+        "ezr_pct": 23.89,
+        "answered": 154,
+        "coverage_pct": 85.56,
+        "junk10_pct": 31.64,
+        "junk20_pct": 33.23,
+        "junk_n": 154,
+        "recall10_pct": 36.53,
+        "recall20_pct": 50.38,
+        "ndcg10": 59.64,
+        "ndcg20": 60.34
+      },
+      "doofinder": {
+        "ezr_count": 47,
+        "ezr_pct": 26.11,
+        "answered": 180,
+        "coverage_pct": 100.0,
+        "junk10_pct": 50.75,
+        "junk20_pct": 54.41,
+        "junk_n": 180,
+        "recall10_pct": 28.66,
+        "recall20_pct": 36.56,
+        "ndcg10": 49.81,
+        "ndcg20": 48.68
+      },
+      "luigisbox": {
+        "ezr_count": 88,
+        "ezr_pct": 48.89,
+        "answered": 124,
+        "coverage_pct": 68.89,
+        "junk10_pct": 38.96,
+        "junk20_pct": 39.82,
+        "junk_n": 124,
+        "recall10_pct": 19.07,
+        "recall20_pct": 25.72,
+        "ndcg10": 37.02,
+        "ndcg20": 35.59
+      },
+      "clerk": {
+        "ezr_count": 84,
+        "ezr_pct": 46.67,
+        "answered": 179,
+        "coverage_pct": 99.44,
+        "junk10_pct": 64.3,
+        "junk20_pct": 65.82,
+        "junk_n": 179,
+        "recall10_pct": 19.98,
+        "recall20_pct": 27.2,
+        "ndcg10": 33.91,
+        "ndcg20": 33.69
+      },
+      "algolia": {
+        "ezr_count": 105,
+        "ezr_pct": 58.33,
+        "answered": 91,
+        "coverage_pct": 50.56,
+        "junk10_pct": 38.14,
+        "junk20_pct": 40.07,
+        "junk_n": 91,
+        "recall10_pct": 15.35,
+        "recall20_pct": 22.27,
+        "ndcg10": 28.61,
+        "ndcg20": 28.42
+      }
+    }
+  },
+  "pharmacy": {
+    "n_queries": 180,
+    "n_recall_pool": 139,
+    "n_ndcg_included": 172,
+    "engines": {
+      "quissly": {
+        "ezr_count": 25,
+        "ezr_pct": 13.89,
+        "answered": 176,
+        "coverage_pct": 97.78,
+        "junk10_pct": 26.53,
+        "junk20_pct": 27.74,
+        "junk_n": 176,
+        "recall10_pct": 44.02,
+        "recall20_pct": 65.21,
+        "ndcg10": 66.75,
+        "ndcg20": 70.6
+      },
+      "doofinder": {
+        "ezr_count": 55,
+        "ezr_pct": 30.56,
+        "answered": 179,
+        "coverage_pct": 99.44,
+        "junk10_pct": 51.49,
+        "junk20_pct": 53.45,
+        "junk_n": 179,
+        "recall10_pct": 19.67,
+        "recall20_pct": 30.88,
+        "ndcg10": 39.12,
+        "ndcg20": 38.68
+      },
+      "luigisbox": {
+        "ezr_count": 49,
+        "ezr_pct": 27.22,
+        "answered": 164,
+        "coverage_pct": 91.11,
+        "junk10_pct": 38.8,
+        "junk20_pct": 41.91,
+        "junk_n": 164,
+        "recall10_pct": 23.15,
+        "recall20_pct": 31.88,
+        "ndcg10": 42.34,
+        "ndcg20": 41.96
+      },
+      "clerk": {
+        "ezr_count": 59,
+        "ezr_pct": 32.78,
+        "answered": 175,
+        "coverage_pct": 97.22,
+        "junk10_pct": 47.34,
+        "junk20_pct": 50.85,
+        "junk_n": 175,
+        "recall10_pct": 21.86,
+        "recall20_pct": 30.56,
+        "ndcg10": 42.92,
+        "ndcg20": 41.78
+      },
+      "algolia": {
+        "ezr_count": 87,
+        "ezr_pct": 48.33,
+        "answered": 109,
+        "coverage_pct": 60.56,
+        "junk10_pct": 28.78,
+        "junk20_pct": 33.1,
+        "junk_n": 109,
+        "recall10_pct": 20.86,
+        "recall20_pct": 27.24,
+        "ndcg10": 36.74,
+        "ndcg20": 35.36
+      }
+    }
+  }
+}
