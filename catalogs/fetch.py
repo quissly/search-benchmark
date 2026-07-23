@@ -12,7 +12,9 @@ Canonical sources ONLY (no mirrors/re-uploads):
     marketplace     Kaggle atharvjairath/flipkart-ecommerce-dataset              [kaggle.json]
 
 NOTE: furniture and cosmetics were repointed to Amazon (so they gain image_url, and
-cosmetics gains description).
+cosmetics gains description). The legacy WANDS (furniture) and Sephora (cosmetics)
+fetchers/adapters are kept but unreferenced — remove the sector from AMAZON_CONFIG to
+fall back to them.
 
 Usage:
     python fetch.py --all
@@ -41,6 +43,7 @@ RAW = Path("data/raw")
 # Default cap for the two huge streamed Amazon catalogs (millions of rows each).
 AMAZON_LIMIT = 50_000
 
+WANDS_URL = "https://raw.githubusercontent.com/wayfair/WANDS/main/dataset/product.csv"
 
 AMAZON_REPO = "McAuley-Lab/Amazon-Reviews-2023"
 AMAZON_CONFIG = {
@@ -52,6 +55,7 @@ AMAZON_CONFIG = {
 }
 
 KAGGLE_HANDLE = {
+    "cosmetics": "nadyinky/sephora-products-and-skincare-reviews",
     "pharmacy": "drowsyng/medicines-dataset",
     "fast_fashion": "paramaggarwal/fashion-product-images-dataset",
     "luxury_fashion": "chitwanmanchanda/luxury-apparel-data",
@@ -64,6 +68,18 @@ def _dest(sector: str) -> Path:
     d = RAW / sector
     d.mkdir(parents=True, exist_ok=True)
     return d
+
+
+# --------------------------------------------------------------------------- #
+# furniture — WANDS over plain HTTP (no credentials)
+# --------------------------------------------------------------------------- #
+def fetch_furniture() -> None:
+    dest = _dest("furniture") / "product.csv"
+    print(f"[furniture] downloading {WANDS_URL}")
+    resp = requests.get(WANDS_URL, timeout=120)
+    resp.raise_for_status()
+    dest.write_bytes(resp.content)
+    print(f"[furniture] wrote {dest} ({dest.stat().st_size:,} bytes)")
 
 
 # --------------------------------------------------------------------------- #
@@ -93,8 +109,11 @@ def _amazon_available_categories() -> list[str]:
         print(f"[amazon] could not list repo files: {exc!r}")
         return []
     prefix, suffix = "raw/meta_categories/meta_", ".jsonl"
-    cats = [f[len(prefix):-len(suffix)] for f in files
-            if f.startswith(prefix) and f.endswith(suffix)]
+    cats = [
+        f[len(prefix) : -len(suffix)]
+        for f in files
+        if f.startswith(prefix) and f.endswith(suffix)
+    ]
     return sorted(cats)
 
 
@@ -149,7 +168,9 @@ def fetch_amazon(sector: str, limit: int) -> None:
     try:
         from datasets import load_dataset
 
-        print(f"[{sector}] streaming {AMAZON_REPO}:{config} via datasets (limit={limit})")
+        print(
+            f"[{sector}] streaming {AMAZON_REPO}:{config} via datasets (limit={limit})"
+        )
         ds = load_dataset(AMAZON_REPO, config, split="full", streaming=True)
         out = _dest(sector) / f"{config}.jsonl"
         written = 0
@@ -164,7 +185,9 @@ def fetch_amazon(sector: str, limit: int) -> None:
         print(f"[{sector}] wrote {out} ({written:,} rows)")
         return
     except Exception as exc:  # noqa: BLE001 — fall back to raw file streaming
-        print(f"[{sector}] datasets loader failed ({exc!r}); falling back to raw HF file")
+        print(
+            f"[{sector}] datasets loader failed ({exc!r}); falling back to raw HF file"
+        )
 
     # Fallback: stream the raw JSONL directly. On a category-id miss, print the real
     # configs and retry with the exact matching name (case-insensitive).
@@ -173,8 +196,10 @@ def fetch_amazon(sector: str, limit: int) -> None:
     except _CategoryNotFound:
         want = config.replace("raw_meta_", "")
         cats = _amazon_available_categories()
-        print(f"[{sector}] category {want!r} not found. Available Amazon raw_meta "
-              f"categories ({len(cats)}):")
+        print(
+            f"[{sector}] category {want!r} not found. Available Amazon raw_meta "
+            f"categories ({len(cats)}):"
+        )
         for c in cats:
             print(f"    raw_meta_{c}")
         match = next((c for c in cats if c.lower() == want.lower()), None)
@@ -191,18 +216,34 @@ def fetch_amazon(sector: str, limit: int) -> None:
 # Kaggle sectors
 # --------------------------------------------------------------------------- #
 def _ensure_kaggle_token() -> None:
-    token = Path.home() / ".kaggle" / "kaggle.json"
-    if not token.exists() and not (os.environ.get("KAGGLE_USERNAME") and os.environ.get("KAGGLE_KEY")):
+    kaggle_dir = Path.home() / ".kaggle"
+    has_token = (
+        (kaggle_dir / "kaggle.json").exists()
+        or (kaggle_dir / "access_token").exists()  # new KGAT_* token file
+        or os.environ.get("KAGGLE_API_TOKEN")  # new KGAT_* token env var
+        or (os.environ.get("KAGGLE_USERNAME") and os.environ.get("KAGGLE_KEY"))
+    )
+    if not has_token:
         sys.exit(
             "Kaggle token missing. Create one at https://www.kaggle.com/settings -> "
-            "'Create New Token', then save it to ~/.kaggle/kaggle.json and run "
-            "`chmod 600 ~/.kaggle/kaggle.json`."
+            "'Create New Token', then save it to ~/.kaggle/kaggle.json (legacy) or "
+            "~/.kaggle/access_token (new KGAT_* tokens), and `chmod 600` it."
         )
 
 
 def _kaggle_download(handle: str, dest: Path, files: list[str] | None = None) -> None:
     """Download a whole dataset (or specific files) and unzip in place."""
-    base = [sys.executable, "-m", "kaggle", "datasets", "download", "-d", handle, "-p", str(dest)]
+    base = [
+        sys.executable,
+        "-m",
+        "kaggle",
+        "datasets",
+        "download",
+        "-d",
+        handle,
+        "-p",
+        str(dest),
+    ]
     if files:
         for f in files:
             cmd = base + ["-f", f]
@@ -256,7 +297,17 @@ def fetch_fast_fashion(_limit: int | None = None) -> None:
     # Download the archive without unzipping (avoids exploding 23 GB of images).
     archive = dest / "fashion-product-images-dataset.zip"
     if not archive.exists():
-        cmd = [sys.executable, "-m", "kaggle", "datasets", "download", "-d", handle, "-p", str(dest)]
+        cmd = [
+            sys.executable,
+            "-m",
+            "kaggle",
+            "datasets",
+            "download",
+            "-d",
+            handle,
+            "-p",
+            str(dest),
+        ]
         print(f"[fast_fashion] {' '.join(cmd)}")
         subprocess.run(cmd, check=True)
     if not archive.exists():
@@ -292,13 +343,18 @@ def extract_fast_fashion_metadata(archive: Path, dest: Path) -> None:
 # dispatch
 # --------------------------------------------------------------------------- #
 def fetch_sector(sector: str, limit: int | None) -> None:
-    # AMAZON_CONFIG is checked first: furniture and cosmetics live here.
+    # AMAZON_CONFIG is checked first: furniture and cosmetics now live here. Drop a
+    # sector from AMAZON_CONFIG and it falls through to its legacy fetcher below.
     if sector in AMAZON_CONFIG:
         fetch_amazon(sector, limit or AMAZON_LIMIT)
     elif sector == "fast_fashion":
         fetch_fast_fashion()
     elif sector in KAGGLE_HANDLE:
         fetch_kaggle(sector)
+    elif (
+        sector == "furniture"
+    ):  # legacy WANDS path (superseded by Amazon Home_and_Kitchen)
+        fetch_furniture()
     else:
         raise ValueError(f"unknown sector {sector!r}")
 
@@ -307,8 +363,12 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Fetch raw data per sector.")
     ap.add_argument("sectors", nargs="*", help="sectors to fetch (default: all)")
     ap.add_argument("--all", action="store_true", help="fetch every sector")
-    ap.add_argument("--limit", type=int, default=None,
-                    help="row cap for Amazon / JSON cap for Myntra")
+    ap.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="row cap for Amazon / JSON cap for Myntra",
+    )
     args = ap.parse_args()
 
     targets = SECTORS if (args.all or not args.sectors) else args.sectors

@@ -12,20 +12,20 @@ judgments; a product returned by several engines is judged once per query
 
 ## Headline results (pooled over all 1,259 queries)
 
-| Engine | Effective zero-result rate ↓ | Pooled-ideal nDCG@10 ↑ | Pooled recall@20 ↑ | Graded P@10 ↑ |
-|---|---:|---:|---:|---:|
-| **Quissly** | **7.39%** | **73.78** | **65.49%** | **56.36** |
-| Doofinder | 11.83% | 54.24 | 41.70% | 44.59 |
-| Clerk.io | 19.78% | 49.24 | 38.14% | 41.35 |
-| Luigi's Box | 24.46% | 50.81 | 37.78% | 43.93 |
-| Algolia | 37.89% | 44.06 | 33.72% | 38.69 |
+| Engine      | Effective zero-result rate ↓ | Pooled-ideal nDCG@10 ↑ | Pooled recall@20 ↑ | Graded P@10 ↑ |
+| ----------- | ---------------------------: | ---------------------: | -----------------: | ------------: |
+| **Quissly** |                    **7.39%** |              **73.78** |         **65.49%** |     **56.36** |
+| Doofinder   |                       11.83% |                  54.24 |             41.70% |         44.59 |
+| Clerk.io    |                       19.78% |                  49.24 |             38.14% |         41.35 |
+| Luigi's Box |                       24.46% |                  50.81 |             37.78% |         43.93 |
+| Algolia     |                       37.89% |                  44.06 |             33.72% |         38.69 |
 
 229 of 236 paired-bootstrap comparisons are significant after Holm
 correction (`analysis/report_inputs/consolidated_holm.csv`). Metric
 definitions and population conventions (1,259 / 1,212 / 1,059): `METRICS.md`.
 
 > **Changelog — 2026-07-18 pre-publication correction.** Recall and
-> pooled-ideal nDCG are computed over pools keyed by *normalized* product
+> pooled-ideal nDCG are computed over pools keyed by _normalized_ product
 > id (lowercase, dashes stripped): Quissly's marketplace hits carry dashed
 > UUIDs where the other engines carry undashed hex of the same ids, and
 > raw-id pools double-counted 1,142 label-consistent duplicate judgments
@@ -69,7 +69,9 @@ pipeline/                  harness: run queries (run_final_comparison.py),
                            (metrics_dashboard.py)
 catalogs/                  fetch + normalize + validate scripts that rebuild
                            the seven sector catalogs (not committed — see
-                           DATA_LICENSES.md)
+                           DATA_LICENSES.md), plus format_data.py,
+                           which rebuilds the exact upload files indexed by
+                           every provider (md5-gated, byte-verified)
 analysis/                  every published statistic, reproducible:
   ndcg_pooled/             pooled-ideal nDCG (authoritative) + bootstrap
   ezr_bootstrap/           effective zero-result rate bootstrap
@@ -189,6 +191,6 @@ remains under the source terms already documented in `DATA_LICENSES.md`
 (Amazon Reviews 2023: Hou et al., 2024, arXiv:2403.03952, CC BY-SA 4.0;
 plus three Kaggle datasets).
 
-**Cite as:** Chikhladze, K., Lezhava, T., and the Quissly Team (2026). *The
-Quissly E-Commerce Search Benchmark v1.0.* doi:10.5281/zenodo.21410544.
+**Cite as:** Chikhladze, K., Lezhava, T., and the Quissly Team (2026). _The
+Quissly E-Commerce Search Benchmark v1.0._ doi:10.5281/zenodo.21410544.
 Machine-readable metadata in `CITATION.cff` (GitHub's "Cite this repository").
